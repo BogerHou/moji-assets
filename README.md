@@ -29,6 +29,16 @@ main 中的 `gallery.json` 不能改来源、图片路径或许可；加入这�
 
 `quickSubjects.photo` / `design` 是两个列表的快捷题材按钮，各最多 10 个，必须引用 subjects。`searchSuggestions.photo` / `design` 是搜索推荐词，各最多 8 个，每项最多 50 字符。两者均不可重复。图片标题、关键词和这些分类可通过一次 gallery 提交共同更新。
 
+## 免费 CDN 的更新时间
+
+当前采用无需新增服务账号或清缓存密钥的免费链路。GitHub Actions 成功只表示 **published 分支已经发布**；客户端何时看到新图，还取决于 CDN 的发布指针缓存。jsDelivr 官方文档列出分支缓存可达 12 小时，JSDMirror 的实际缓存行为应单独观察，不能把一次 HTTP 200 当作最新内容已经送达。
+
+小程序的刷新按钮会重新请求目录，但不能绕过上游 CDN 缓存。发布后若 CDN 的 `release.json.sequence` 仍小于 GitHub published 中的值，应等待缓存自然更新，不要反复提交相同内容或重发小程序；这些操作不能保证加快同一个指针 URL 的传播。目录与图片使用不可变版本路径，指针返回新版本后再读取对应目录。
+
+本轮没有接入自动清缓存：jsDelivr 网页清理有验证码，API 需要邮件授权；JSDMirror 刷新接口需要账号密钥/积分。为保持当前方案无需新增账号和密钥，这些操作均不自动化。免费方案的验收边界是**发布流水线和客户端更新逻辑可用，但上新并非即时**。如将来需要明确的更新时间，再评估有可控缓存的存储与 CDN。
+
+2026-10-07 第二版状态：GitHub 已发布 sequence 2，冻结客户端的更新逻辑测试通过。最终 HTTP 检查 62/64 通过：新目录与抽查图片正确，两条 release 指针仍返回 sequence 1。待 CDN 指针自然传播，未完成原生第二版端到端验收。不能将 Actions 成功写成第二版已在手机端生效。参考 [jsDelivr 缓存说明](https://github.com/jsdelivr/jsdelivr#caching)。
+
 ## 暂时隐藏与永久撤下
 
 临时调整使用 `enabled: false`。如果需要永久撤下，将 ID 加入顶层 `withdrawnIds`。发布器会与上一份已发布的撤下列表合并；以后把 enabled 改回 true，或回滚旧 gallery，都不会让该 ID 复活。撤下可以包括已从运营列表删除的 ID。
