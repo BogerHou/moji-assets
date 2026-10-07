@@ -147,7 +147,7 @@
   "items": [
     {
       "id": "photo-009",
-      "enabled": true,
+      "enabled": false,
       "title": "月亮与花枝",
       "keywords": [
         "月亮与花枝",
@@ -178,7 +178,7 @@
     },
     {
       "id": "design-lotus-line-art",
-      "enabled": true,
+      "enabled": false,
       "title": "莲花对称线稿",
       "keywords": [
         "莲花对称线稿",
@@ -200,7 +200,7 @@
     },
     {
       "id": "photo-001",
-      "enabled": true,
+      "enabled": false,
       "title": "呼啸的狼",
       "keywords": [
         "呼啸的狼",
@@ -226,7 +226,7 @@
     },
     {
       "id": "design-butterfly-line-art-11",
-      "enabled": true,
+      "enabled": false,
       "title": "蝴蝶装饰线稿",
       "keywords": [
         "蝴蝶装饰线稿",
@@ -246,7 +246,7 @@
     },
     {
       "id": "photo-002",
-      "enabled": true,
+      "enabled": false,
       "title": "几何熊",
       "keywords": [
         "几何熊",
@@ -272,7 +272,7 @@
     },
     {
       "id": "design-outlined-feather",
-      "enabled": true,
+      "enabled": false,
       "title": "羽毛轮廓线稿",
       "keywords": [
         "羽毛轮廓线稿",
@@ -292,7 +292,7 @@
     },
     {
       "id": "photo-003",
-      "enabled": true,
+      "enabled": false,
       "title": "鹿与枝叶",
       "keywords": [
         "鹿与枝叶",
@@ -320,7 +320,7 @@
     },
     {
       "id": "design-line-art-roses",
-      "enabled": true,
+      "enabled": false,
       "title": "玫瑰花束线稿",
       "keywords": [
         "玫瑰花束线稿",
@@ -341,7 +341,7 @@
     },
     {
       "id": "photo-004",
-      "enabled": true,
+      "enabled": false,
       "title": "鹰与花叶",
       "keywords": [
         "鹰与花叶",
@@ -369,7 +369,7 @@
     },
     {
       "id": "design-cat-sketch-line-art",
-      "enabled": true,
+      "enabled": false,
       "title": "小猫轮廓线稿",
       "keywords": [
         "小猫轮廓线稿",
@@ -389,7 +389,7 @@
     },
     {
       "id": "photo-005",
-      "enabled": true,
+      "enabled": false,
       "title": "几何蝴蝶",
       "keywords": [
         "几何蝴蝶",
@@ -416,7 +416,7 @@
     },
     {
       "id": "design-cute-cat-line-art",
-      "enabled": true,
+      "enabled": false,
       "title": "伏卧猫线稿",
       "keywords": [
         "伏卧猫线稿",
@@ -436,7 +436,7 @@
     },
     {
       "id": "photo-006",
-      "enabled": true,
+      "enabled": false,
       "title": "几何狮子",
       "keywords": [
         "几何狮子",
@@ -462,7 +462,7 @@
     },
     {
       "id": "design-kitten-and-butterflies",
-      "enabled": true,
+      "enabled": false,
       "title": "猫与蝴蝶剪影",
       "keywords": [
         "猫与蝴蝶剪影",
@@ -484,7 +484,7 @@
     },
     {
       "id": "photo-007",
-      "enabled": true,
+      "enabled": false,
       "title": "树懒肖像",
       "keywords": [
         "树懒肖像",
@@ -510,7 +510,7 @@
     },
     {
       "id": "design-crescent-moon-silhouette",
-      "enabled": true,
+      "enabled": false,
       "title": "星纹月牙剪影",
       "keywords": [
         "星纹月牙剪影",
@@ -531,7 +531,7 @@
     },
     {
       "id": "photo-008",
-      "enabled": true,
+      "enabled": false,
       "title": "花与侧脸",
       "keywords": [
         "花与侧脸",
@@ -557,7 +557,7 @@
     },
     {
       "id": "design-flower-line-art-4",
-      "enabled": true,
+      "enabled": false,
       "title": "对称花形线稿 4",
       "keywords": [
         "对称花形线稿 4",
@@ -579,7 +579,7 @@
     },
     {
       "id": "design-flower-line-art-5",
-      "enabled": true,
+      "enabled": false,
       "title": "对称花形线稿 5",
       "keywords": [
         "对称花形线稿 5",
@@ -601,7 +601,7 @@
     },
     {
       "id": "design-pentagonalornament",
-      "enabled": true,
+      "enabled": false,
       "title": "五角对称装饰",
       "keywords": [
         "五角对称装饰",
@@ -620,7 +620,7 @@
     },
     {
       "id": "design-compass-rose-in-black-and-white-color",
-      "enabled": true,
+      "enabled": false,
       "title": "黑白罗盘玫瑰",
       "keywords": [
         "黑白罗盘玫瑰",
@@ -641,7 +641,7 @@
     },
     {
       "id": "design-small-bird-silhouette",
-      "enabled": true,
+      "enabled": false,
       "title": "飞鸟黑色剪影",
       "keywords": [
         "飞鸟黑色剪影",
@@ -661,7 +661,7 @@
     },
     {
       "id": "photo-019",
-      "enabled": true,
+      "enabled": false,
       "title": "猫头鹰与花枝",
       "keywords": [
         "猫头鹰与花枝",
@@ -689,7 +689,7 @@
     },
     {
       "id": "design-phoenix-bird-silhouette",
-      "enabled": true,
+      "enabled": false,
       "title": "凤凰黑色剪影",
       "keywords": [
         "凤凰黑色剪影",
@@ -710,7 +710,7 @@
     },
     {
       "id": "photo-020",
-      "enabled": true,
+      "enabled": false,
       "title": "幼鹿与花卉",
       "keywords": [
         "幼鹿与花卉",
@@ -738,7 +738,7 @@
     },
     {
       "id": "design-mountains-with-cross",
-      "enabled": true,
+      "enabled": false,
       "title": "山峰轮廓线稿",
       "keywords": [
         "山峰轮廓线稿",
@@ -758,7 +758,7 @@
     },
     {
       "id": "design-star-drawing",
-      "enabled": true,
+      "enabled": false,
       "title": "装饰星形线稿",
       "keywords": [
         "装饰星形线稿",
@@ -779,5 +779,37 @@
       "sortOrder": 270
     }
   ],
-  "withdrawnIds": []
+  "withdrawnIds": [
+    "design-butterfly-line-art-11",
+    "design-cat-sketch-line-art",
+    "design-compass-rose-in-black-and-white-color",
+    "design-crescent-moon-silhouette",
+    "design-cute-cat-line-art",
+    "design-flower-line-art-4",
+    "design-flower-line-art-5",
+    "design-kitten-and-butterflies",
+    "design-line-art-roses",
+    "design-lotus-line-art",
+    "design-mountains-with-cross",
+    "design-outlined-feather",
+    "design-pentagonalornament",
+    "design-phoenix-bird-silhouette",
+    "design-small-bird-silhouette",
+    "design-star-drawing",
+    "photo-001",
+    "photo-002",
+    "photo-003",
+    "photo-004",
+    "photo-005",
+    "photo-006",
+    "photo-007",
+    "photo-008",
+    "photo-009",
+    "photo-010",
+    "photo-012",
+    "photo-015",
+    "photo-016",
+    "photo-019",
+    "photo-020"
+  ]
 }
