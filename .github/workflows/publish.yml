@@ -29,7 +29,7 @@ jobs:
           publish_worktree="$RUNNER_TEMP/moji-published"
           git worktree add --detach "$publish_worktree" refs/remotes/origin/published
           node scripts/publish.mjs --input "$PWD" --published "$publish_worktree"
-          git -C "$publish_worktree" add catalog assets release.json asset-index.json LICENSES.md
+          git -C "$publish_worktree" add catalog channels assets release.json asset-index.json LICENSES.md
           if git -C "$publish_worktree" diff --cached --quiet; then
             echo 'No publication changes.'
             exit 0

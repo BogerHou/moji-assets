@@ -8,6 +8,7 @@ const ID = /^[a-z0-9][a-z0-9_-]{0,95}$/
 const SLUG = /^[a-z0-9][a-z0-9-]{0,47}$/
 const DIMENSIONS = ['styles', 'subjects', 'bodyParts']
 const KINDS = ['photo', 'design']
+export const GALLERY_RELEASE_PATH = 'channels/gallery-v2.json'
 const hash = bytes => createHash('sha256').update(bytes).digest('hex')
 const json = value => JSON.stringify(value, null, 2) + '\n'
 const load = async file => JSON.parse(await readFile(file, 'utf8'))
@@ -170,7 +171,12 @@ export async function publishGallery({ root, check = false, now = new Date().toI
       }
     }
     const changed = !previous || previous.catalogRevision !== catalog.revision || json(previous.removedIds) !== json(withdrawnIds)
-    if (!changed) return { changed: false, catalog, release: previous }
+    if (!changed) {
+      const alias = await optionalJson(resolve(root, GALLERY_RELEASE_PATH))
+      const pointerAliasChanged = json(alias) !== json(previous)
+      if (pointerAliasChanged && !check) await atomicWrite(resolve(root, GALLERY_RELEASE_PATH), json(previous))
+      return { changed: false, ...(pointerAliasChanged ? { pointerAliasChanged: true, ...(check ? { checked: true } : {}) } : {}), catalog, release: previous }
+    }
     const nextSequence = (previous?.sequence || 0) + 1
     if (!Number.isSafeInteger(nextSequence)) fail('Publication sequence overflow')
     if (!/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d{1,3})?Z$/.test(now) || !Number.isFinite(Date.parse(now))) fail('Invalid publication timestamp')
@@ -184,11 +190,12 @@ export async function publishGallery({ root, check = false, now = new Date().toI
     if (!existing) await atomicWrite(resolve(root, release.catalogPath), json(catalog))
     await atomicWrite(resolve(root, 'asset-index.json'), json({ schemaVersion: 1, files: Object.fromEntries(Object.entries(files).sort(([a], [b]) => a.localeCompare(b, 'en'))) }))
     await atomicWrite(resolve(root, 'release.json'), json(release))
+    await atomicWrite(resolve(root, GALLERY_RELEASE_PATH), json(release))
     return { changed: true, catalog, release }
   } finally { await lock.close(); await rm(resolve(root, '.publish.lock'), { force: true }) }
 }
 
-const PUBLIC_OUTPUTS = ['release.json', 'asset-index.json', 'catalog', 'assets', 'LICENSES.md']
+const PUBLIC_OUTPUTS = ['release.json', 'asset-index.json', 'catalog', 'channels', 'assets', 'LICENSES.md']
 async function copyPublicTree(source, target) {
   const info = await lstat(source)
   if (info.isSymbolicLink()) fail('Symlinks are not allowed in publication output')
@@ -226,6 +233,7 @@ export async function publishFromInput({ inputRoot, publishedRoot, check = false
     const result = await publishGallery({ root: staging, check, ...(now ? { now } : {}) })
     if (check) return result
     if (!result.changed) {
+      if (result.pointerAliasChanged) await copyPublicTree(resolve(staging, GALLERY_RELEASE_PATH), resolve(publishedRoot, GALLERY_RELEASE_PATH))
       let existingLicenses
       try { existingLicenses = await readFile(resolve(publishedRoot, 'LICENSES.md')) } catch (error) { if (error.code !== 'ENOENT') throw error }
       if (!existingLicenses || !existingLicenses.equals(licenses)) {
@@ -255,6 +263,6 @@ if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.ur
     }
     if (!!options.inputRoot !== !!options.publishedRoot) fail('--input and --published must be used together')
     const result = options.inputRoot ? await publishFromInput(options) : await publishGallery({ root: fileURLToPath(new URL('../', import.meta.url)), check: options.check })
-    console.log(result.changed ? `${result.checked ? 'Validated' : 'Published'} ${result.catalog.items.length} items; sequence ${result.release.sequence}; ${result.catalog.revision}` : result.documentationChanged ? 'License document updated; catalog and release pointer unchanged.' : 'No published content changes; pointer unchanged.')
+    console.log(result.changed ? `${result.checked ? 'Validated' : 'Published'} ${result.catalog.items.length} items; sequence ${result.release.sequence}; ${result.catalog.revision}` : result.pointerAliasChanged ? `${result.checked ? 'Validated gallery channel synchronization' : 'Gallery channel pointer synchronized'}; publication sequence unchanged.` : result.documentationChanged ? 'License document updated; catalog and release pointer unchanged.' : 'No published content changes; pointer unchanged.')
   } catch (error) { console.error(`Publication blocked: ${error.message}`); process.exitCode = 1 }
 }
