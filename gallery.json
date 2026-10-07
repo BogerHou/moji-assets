@@ -76,6 +76,10 @@
         {
           "value": "botanical",
           "label": "植物"
+        },
+        {
+          "value": "butterfly",
+          "label": "蝴蝶"
         }
       ],
       "bodyParts": [
@@ -112,11 +116,13 @@
     "quickSubjects": {
       "photo": [
         "floral",
+        "butterfly",
         "animal",
         "moon"
       ],
       "design": [
         "floral",
+        "butterfly",
         "animal",
         "moon",
         "compass"
@@ -124,14 +130,15 @@
     },
     "searchSuggestions": {
       "photo": [
+        "蝴蝶",
         "花卉",
         "几何",
         "动物",
         "小臂"
       ],
       "design": [
-        "猫",
         "蝴蝶",
+        "猫",
         "罗盘",
         "线稿"
       ]
@@ -167,7 +174,7 @@
           "upper-arm"
         ]
       },
-      "sortOrder": 0
+      "sortOrder": 10
     },
     {
       "id": "design-lotus-line-art",
@@ -189,7 +196,7 @@
         ],
         "bodyParts": []
       },
-      "sortOrder": 1
+      "sortOrder": 20
     },
     {
       "id": "photo-001",
@@ -215,7 +222,7 @@
           "forearm"
         ]
       },
-      "sortOrder": 2
+      "sortOrder": 30
     },
     {
       "id": "design-butterfly-line-art-11",
@@ -230,11 +237,12 @@
       "tags": {
         "styles": [],
         "subjects": [
-          "animal"
+          "animal",
+          "butterfly"
         ],
         "bodyParts": []
       },
-      "sortOrder": 3
+      "sortOrder": 40
     },
     {
       "id": "photo-002",
@@ -260,7 +268,7 @@
           "upper-arm"
         ]
       },
-      "sortOrder": 4
+      "sortOrder": 50
     },
     {
       "id": "design-outlined-feather",
@@ -280,7 +288,7 @@
         ],
         "bodyParts": []
       },
-      "sortOrder": 5
+      "sortOrder": 60
     },
     {
       "id": "photo-003",
@@ -308,7 +316,7 @@
           "forearm"
         ]
       },
-      "sortOrder": 6
+      "sortOrder": 70
     },
     {
       "id": "design-line-art-roses",
@@ -329,7 +337,7 @@
         ],
         "bodyParts": []
       },
-      "sortOrder": 7
+      "sortOrder": 80
     },
     {
       "id": "photo-004",
@@ -357,7 +365,7 @@
           "forearm"
         ]
       },
-      "sortOrder": 8
+      "sortOrder": 90
     },
     {
       "id": "design-cat-sketch-line-art",
@@ -377,7 +385,7 @@
         ],
         "bodyParts": []
       },
-      "sortOrder": 9
+      "sortOrder": 100
     },
     {
       "id": "photo-005",
@@ -397,13 +405,14 @@
           "geometric"
         ],
         "subjects": [
-          "animal"
+          "animal",
+          "butterfly"
         ],
         "bodyParts": [
           "calf"
         ]
       },
-      "sortOrder": 10
+      "sortOrder": 0
     },
     {
       "id": "design-cute-cat-line-art",
@@ -423,7 +432,7 @@
         ],
         "bodyParts": []
       },
-      "sortOrder": 11
+      "sortOrder": 120
     },
     {
       "id": "photo-006",
@@ -449,7 +458,7 @@
           "forearm"
         ]
       },
-      "sortOrder": 12
+      "sortOrder": 130
     },
     {
       "id": "design-kitten-and-butterflies",
@@ -466,11 +475,12 @@
           "silhouette"
         ],
         "subjects": [
-          "animal"
+          "animal",
+          "butterfly"
         ],
         "bodyParts": []
       },
-      "sortOrder": 13
+      "sortOrder": 140
     },
     {
       "id": "photo-007",
@@ -496,7 +506,7 @@
           "forearm"
         ]
       },
-      "sortOrder": 14
+      "sortOrder": 150
     },
     {
       "id": "design-crescent-moon-silhouette",
@@ -517,7 +527,7 @@
         ],
         "bodyParts": []
       },
-      "sortOrder": 15
+      "sortOrder": 160
     },
     {
       "id": "photo-008",
@@ -543,7 +553,7 @@
           "forearm"
         ]
       },
-      "sortOrder": 16
+      "sortOrder": 170
     },
     {
       "id": "design-flower-line-art-4",
@@ -565,7 +575,7 @@
         ],
         "bodyParts": []
       },
-      "sortOrder": 17
+      "sortOrder": 180
     },
     {
       "id": "design-flower-line-art-5",
@@ -587,7 +597,7 @@
         ],
         "bodyParts": []
       },
-      "sortOrder": 18
+      "sortOrder": 190
     },
     {
       "id": "design-pentagonalornament",
@@ -606,7 +616,7 @@
         "subjects": [],
         "bodyParts": []
       },
-      "sortOrder": 19
+      "sortOrder": 200
     },
     {
       "id": "design-compass-rose-in-black-and-white-color",
@@ -627,7 +637,7 @@
         ],
         "bodyParts": []
       },
-      "sortOrder": 20
+      "sortOrder": 210
     },
     {
       "id": "design-small-bird-silhouette",
@@ -647,7 +657,7 @@
         ],
         "bodyParts": []
       },
-      "sortOrder": 21
+      "sortOrder": 220
     },
     {
       "id": "photo-019",
@@ -675,7 +685,7 @@
           "shoulder-back"
         ]
       },
-      "sortOrder": 22
+      "sortOrder": 230
     },
     {
       "id": "design-phoenix-bird-silhouette",
@@ -696,7 +706,7 @@
         ],
         "bodyParts": []
       },
-      "sortOrder": 23
+      "sortOrder": 240
     },
     {
       "id": "photo-020",
@@ -724,7 +734,7 @@
           "forearm"
         ]
       },
-      "sortOrder": 24
+      "sortOrder": 250
     },
     {
       "id": "design-mountains-with-cross",
@@ -744,7 +754,7 @@
         ],
         "bodyParts": []
       },
-      "sortOrder": 25
+      "sortOrder": 260
     },
     {
       "id": "design-star-drawing",
@@ -766,7 +776,7 @@
         ],
         "bodyParts": []
       },
-      "sortOrder": 26
+      "sortOrder": 270
     }
   ],
   "withdrawnIds": []

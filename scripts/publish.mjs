@@ -224,7 +224,16 @@ export async function publishFromInput({ inputRoot, publishedRoot, check = false
     const licenses = await readLocal(inputRoot, 'LICENSES.md')
     await writeFile(resolve(staging, 'LICENSES.md'), licenses)
     const result = await publishGallery({ root: staging, check, ...(now ? { now } : {}) })
-    if (check || !result.changed) return result
+    if (check) return result
+    if (!result.changed) {
+      let existingLicenses
+      try { existingLicenses = await readFile(resolve(publishedRoot, 'LICENSES.md')) } catch (error) { if (error.code !== 'ENOENT') throw error }
+      if (!existingLicenses || !existingLicenses.equals(licenses)) {
+        await writeFile(resolve(publishedRoot, 'LICENSES.md'), licenses)
+        return { ...result, documentationChanged: true }
+      }
+      return result
+    }
     // The caller commits this worktree only after the entire copy succeeds.
     // Validation failure above has not touched any published worktree file.
     for (const name of PUBLIC_OUTPUTS) await copyPublicTree(resolve(staging, name), resolve(publishedRoot, name))
@@ -246,6 +255,6 @@ if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.ur
     }
     if (!!options.inputRoot !== !!options.publishedRoot) fail('--input and --published must be used together')
     const result = options.inputRoot ? await publishFromInput(options) : await publishGallery({ root: fileURLToPath(new URL('../', import.meta.url)), check: options.check })
-    console.log(result.changed ? `${result.checked ? 'Validated' : 'Published'} ${result.catalog.items.length} items; sequence ${result.release.sequence}; ${result.catalog.revision}` : 'No published content changes; pointer unchanged.')
+    console.log(result.changed ? `${result.checked ? 'Validated' : 'Published'} ${result.catalog.items.length} items; sequence ${result.release.sequence}; ${result.catalog.revision}` : result.documentationChanged ? 'License document updated; catalog and release pointer unchanged.' : 'No published content changes; pointer unchanged.')
   } catch (error) { console.error(`Publication blocked: ${error.message}`); process.exitCode = 1 }
 }
