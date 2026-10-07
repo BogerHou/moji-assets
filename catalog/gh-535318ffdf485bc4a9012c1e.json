@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "channel": "public",
+  "revision": "gh-535318ffdf485bc4a9012c1e",
+  "items": [],
+  "presentation": {
+    "taxonomy": {
+      "styles": [
+        {
+          "value": "black-grey",
+          "label": "黑灰"
+        },
+        {
+          "value": "color",
+          "label": "彩色"
+        },
+        {
+          "value": "geometric",
+          "label": "几何"
+        },
+        {
+          "value": "linework",
+          "label": "线稿"
+        },
+        {
+          "value": "fine-line",
+          "label": "细线"
+        },
+        {
+          "value": "silhouette",
+          "label": "剪影"
+        },
+        {
+          "value": "dotwork",
+          "label": "点刺"
+        },
+        {
+          "value": "traditional",
+          "label": "传统"
+        },
+        {
+          "value": "realism",
+          "label": "写实"
+        }
+      ],
+      "subjects": [
+        {
+          "value": "floral",
+          "label": "花卉"
+        },
+        {
+          "value": "animal",
+          "label": "动物"
+        },
+        {
+          "value": "moon",
+          "label": "月亮"
+        },
+        {
+          "value": "lettering",
+          "label": "文字"
+        },
+        {
+          "value": "feather",
+          "label": "羽毛"
+        },
+        {
+          "value": "compass",
+          "label": "罗盘"
+        },
+        {
+          "value": "mountains",
+          "label": "山峰"
+        },
+        {
+          "value": "star",
+          "label": "星星"
+        },
+        {
+          "value": "botanical",
+          "label": "植物"
+        },
+        {
+          "value": "butterfly",
+          "label": "蝴蝶"
+        }
+      ],
+      "bodyParts": [
+        {
+          "value": "forearm",
+          "label": "小臂"
+        },
+        {
+          "value": "upper-arm",
+          "label": "上臂"
+        },
+        {
+          "value": "wrist",
+          "label": "手腕"
+        },
+        {
+          "value": "calf",
+          "label": "小腿"
+        },
+        {
+          "value": "thigh",
+          "label": "大腿"
+        },
+        {
+          "value": "shoulder-back",
+          "label": "肩背"
+        },
+        {
+          "value": "shoulder",
+          "label": "肩部"
+        }
+      ]
+    },
+    "quickSubjects": {
+      "photo": [
+        "floral",
+        "butterfly",
+        "animal",
+        "moon"
+      ],
+      "design": [
+        "floral",
+        "butterfly",
+        "animal",
+        "moon",
+        "compass"
+      ]
+    },
+    "searchSuggestions": {
+      "photo": [
+        "蝴蝶",
+        "花卉",
+        "几何",
+        "动物",
+        "小臂"
+      ],
+      "design": [
+        "蝴蝶",
+        "猫",
+        "罗盘",
+        "线稿"
+      ]
+    }
+  }
+}
