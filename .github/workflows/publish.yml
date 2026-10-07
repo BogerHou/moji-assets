@@ -1,0 +1,40 @@
+name: Publish gallery
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [gallery.json, base-catalog.json, LICENSES.md, 'assets/**', 'scripts/publish.mjs', '.github/workflows/publish.yml']
+permissions:
+  contents: write
+concurrency:
+  group: gallery-publication
+  cancel-in-progress: false
+jobs:
+  publish:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Validate main inputs and atomically publish the output branch
+        env:
+          GH_CONTENT_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          set -eu
+          git init -b main
+          git remote add origin "https://github.com/$GITHUB_REPOSITORY.git"
+          auth=$(printf 'x-access-token:%s' "$GH_CONTENT_TOKEN" | base64 -w0)
+          git -c "http.https://github.com/.extraheader=AUTHORIZATION: basic $auth" fetch --depth=1 origin main:refs/remotes/origin/main published:refs/remotes/origin/published
+          git checkout -B main refs/remotes/origin/main
+          publish_worktree="$RUNNER_TEMP/moji-published"
+          git worktree add --detach "$publish_worktree" refs/remotes/origin/published
+          node scripts/publish.mjs --input "$PWD" --published "$publish_worktree"
+          git -C "$publish_worktree" add catalog assets release.json asset-index.json LICENSES.md
+          if git -C "$publish_worktree" diff --cached --quiet; then
+            echo 'No publication changes.'
+            exit 0
+          fi
+          git -C "$publish_worktree" config user.name 'github-actions[bot]'
+          git -C "$publish_worktree" config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git -C "$publish_worktree" commit -m 'Publish reviewed gallery update'
+          git -C "$publish_worktree" -c "http.https://github.com/.extraheader=AUTHORIZATION: basic $auth" push origin HEAD:published

@@ -1,0 +1,773 @@
+{
+  "schemaVersion": 1,
+  "presentation": {
+    "taxonomy": {
+      "styles": [
+        {
+          "value": "black-grey",
+          "label": "黑灰"
+        },
+        {
+          "value": "color",
+          "label": "彩色"
+        },
+        {
+          "value": "geometric",
+          "label": "几何"
+        },
+        {
+          "value": "linework",
+          "label": "线稿"
+        },
+        {
+          "value": "fine-line",
+          "label": "细线"
+        },
+        {
+          "value": "silhouette",
+          "label": "剪影"
+        },
+        {
+          "value": "dotwork",
+          "label": "点刺"
+        },
+        {
+          "value": "traditional",
+          "label": "传统"
+        },
+        {
+          "value": "realism",
+          "label": "写实"
+        }
+      ],
+      "subjects": [
+        {
+          "value": "floral",
+          "label": "花卉"
+        },
+        {
+          "value": "animal",
+          "label": "动物"
+        },
+        {
+          "value": "moon",
+          "label": "月亮"
+        },
+        {
+          "value": "lettering",
+          "label": "文字"
+        },
+        {
+          "value": "feather",
+          "label": "羽毛"
+        },
+        {
+          "value": "compass",
+          "label": "罗盘"
+        },
+        {
+          "value": "mountains",
+          "label": "山峰"
+        },
+        {
+          "value": "star",
+          "label": "星星"
+        },
+        {
+          "value": "botanical",
+          "label": "植物"
+        }
+      ],
+      "bodyParts": [
+        {
+          "value": "forearm",
+          "label": "小臂"
+        },
+        {
+          "value": "upper-arm",
+          "label": "上臂"
+        },
+        {
+          "value": "wrist",
+          "label": "手腕"
+        },
+        {
+          "value": "calf",
+          "label": "小腿"
+        },
+        {
+          "value": "thigh",
+          "label": "大腿"
+        },
+        {
+          "value": "shoulder-back",
+          "label": "肩背"
+        },
+        {
+          "value": "shoulder",
+          "label": "肩部"
+        }
+      ]
+    },
+    "quickSubjects": {
+      "photo": [
+        "floral",
+        "animal",
+        "moon"
+      ],
+      "design": [
+        "floral",
+        "animal",
+        "moon",
+        "compass"
+      ]
+    },
+    "searchSuggestions": {
+      "photo": [
+        "花卉",
+        "几何",
+        "动物",
+        "小臂"
+      ],
+      "design": [
+        "猫",
+        "蝴蝶",
+        "罗盘",
+        "线稿"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "photo-009",
+      "enabled": true,
+      "title": "月亮与花枝",
+      "keywords": [
+        "月亮与花枝",
+        "细线",
+        "黑灰",
+        "月亮",
+        "花卉",
+        "植物",
+        "肩部",
+        "上臂"
+      ],
+      "tags": {
+        "styles": [
+          "fine-line",
+          "black-grey"
+        ],
+        "subjects": [
+          "moon",
+          "floral",
+          "botanical"
+        ],
+        "bodyParts": [
+          "shoulder",
+          "upper-arm"
+        ]
+      },
+      "sortOrder": 0
+    },
+    {
+      "id": "design-lotus-line-art",
+      "enabled": true,
+      "title": "莲花对称线稿",
+      "keywords": [
+        "莲花对称线稿",
+        "线稿",
+        "几何",
+        "莲花"
+      ],
+      "tags": {
+        "styles": [
+          "linework",
+          "geometric"
+        ],
+        "subjects": [
+          "floral"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "photo-001",
+      "enabled": true,
+      "title": "呼啸的狼",
+      "keywords": [
+        "呼啸的狼",
+        "黑灰",
+        "点刺",
+        "狼",
+        "动物",
+        "小臂"
+      ],
+      "tags": {
+        "styles": [
+          "black-grey",
+          "dotwork"
+        ],
+        "subjects": [
+          "animal"
+        ],
+        "bodyParts": [
+          "forearm"
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "design-butterfly-line-art-11",
+      "enabled": true,
+      "title": "蝴蝶装饰线稿",
+      "keywords": [
+        "蝴蝶装饰线稿",
+        "黑白",
+        "装饰",
+        "蝴蝶"
+      ],
+      "tags": {
+        "styles": [],
+        "subjects": [
+          "animal"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "photo-002",
+      "enabled": true,
+      "title": "几何熊",
+      "keywords": [
+        "几何熊",
+        "黑灰",
+        "几何",
+        "熊",
+        "动物",
+        "上臂"
+      ],
+      "tags": {
+        "styles": [
+          "black-grey",
+          "geometric"
+        ],
+        "subjects": [
+          "animal"
+        ],
+        "bodyParts": [
+          "upper-arm"
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "design-outlined-feather",
+      "enabled": true,
+      "title": "羽毛轮廓线稿",
+      "keywords": [
+        "羽毛轮廓线稿",
+        "线稿",
+        "羽毛"
+      ],
+      "tags": {
+        "styles": [
+          "linework"
+        ],
+        "subjects": [
+          "feather"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "photo-003",
+      "enabled": true,
+      "title": "鹿与枝叶",
+      "keywords": [
+        "鹿与枝叶",
+        "黑灰",
+        "点刺",
+        "鹿",
+        "动物",
+        "植物",
+        "小臂"
+      ],
+      "tags": {
+        "styles": [
+          "black-grey",
+          "dotwork"
+        ],
+        "subjects": [
+          "animal",
+          "botanical"
+        ],
+        "bodyParts": [
+          "forearm"
+        ]
+      },
+      "sortOrder": 6
+    },
+    {
+      "id": "design-line-art-roses",
+      "enabled": true,
+      "title": "玫瑰花束线稿",
+      "keywords": [
+        "玫瑰花束线稿",
+        "线稿",
+        "玫瑰",
+        "花卉"
+      ],
+      "tags": {
+        "styles": [
+          "linework"
+        ],
+        "subjects": [
+          "floral"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 7
+    },
+    {
+      "id": "photo-004",
+      "enabled": true,
+      "title": "鹰与花叶",
+      "keywords": [
+        "鹰与花叶",
+        "黑灰",
+        "点刺",
+        "鹰",
+        "鸟",
+        "植物",
+        "小臂"
+      ],
+      "tags": {
+        "styles": [
+          "black-grey",
+          "dotwork"
+        ],
+        "subjects": [
+          "animal",
+          "botanical"
+        ],
+        "bodyParts": [
+          "forearm"
+        ]
+      },
+      "sortOrder": 8
+    },
+    {
+      "id": "design-cat-sketch-line-art",
+      "enabled": true,
+      "title": "小猫轮廓线稿",
+      "keywords": [
+        "小猫轮廓线稿",
+        "线稿",
+        "猫"
+      ],
+      "tags": {
+        "styles": [
+          "linework"
+        ],
+        "subjects": [
+          "animal"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 9
+    },
+    {
+      "id": "photo-005",
+      "enabled": true,
+      "title": "几何蝴蝶",
+      "keywords": [
+        "几何蝴蝶",
+        "黑灰",
+        "几何",
+        "蝴蝶",
+        "昆虫",
+        "小腿"
+      ],
+      "tags": {
+        "styles": [
+          "black-grey",
+          "geometric"
+        ],
+        "subjects": [
+          "animal"
+        ],
+        "bodyParts": [
+          "calf"
+        ]
+      },
+      "sortOrder": 10
+    },
+    {
+      "id": "design-cute-cat-line-art",
+      "enabled": true,
+      "title": "伏卧猫线稿",
+      "keywords": [
+        "伏卧猫线稿",
+        "线稿",
+        "猫"
+      ],
+      "tags": {
+        "styles": [
+          "linework"
+        ],
+        "subjects": [
+          "animal"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 11
+    },
+    {
+      "id": "photo-006",
+      "enabled": true,
+      "title": "几何狮子",
+      "keywords": [
+        "几何狮子",
+        "黑灰",
+        "几何",
+        "狮子",
+        "动物",
+        "小臂"
+      ],
+      "tags": {
+        "styles": [
+          "black-grey",
+          "geometric"
+        ],
+        "subjects": [
+          "animal"
+        ],
+        "bodyParts": [
+          "forearm"
+        ]
+      },
+      "sortOrder": 12
+    },
+    {
+      "id": "design-kitten-and-butterflies",
+      "enabled": true,
+      "title": "猫与蝴蝶剪影",
+      "keywords": [
+        "猫与蝴蝶剪影",
+        "黑色剪影",
+        "猫",
+        "蝴蝶"
+      ],
+      "tags": {
+        "styles": [
+          "silhouette"
+        ],
+        "subjects": [
+          "animal"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 13
+    },
+    {
+      "id": "photo-007",
+      "enabled": true,
+      "title": "树懒肖像",
+      "keywords": [
+        "树懒肖像",
+        "黑灰",
+        "点刺",
+        "树懒",
+        "动物",
+        "小臂"
+      ],
+      "tags": {
+        "styles": [
+          "black-grey",
+          "dotwork"
+        ],
+        "subjects": [
+          "animal"
+        ],
+        "bodyParts": [
+          "forearm"
+        ]
+      },
+      "sortOrder": 14
+    },
+    {
+      "id": "design-crescent-moon-silhouette",
+      "enabled": true,
+      "title": "星纹月牙剪影",
+      "keywords": [
+        "星纹月牙剪影",
+        "黑白",
+        "装饰",
+        "月亮",
+        "星星"
+      ],
+      "tags": {
+        "styles": [],
+        "subjects": [
+          "moon",
+          "star"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 15
+    },
+    {
+      "id": "photo-008",
+      "enabled": true,
+      "title": "花与侧脸",
+      "keywords": [
+        "花与侧脸",
+        "黑灰",
+        "点刺",
+        "人物",
+        "花卉",
+        "小臂"
+      ],
+      "tags": {
+        "styles": [
+          "black-grey",
+          "dotwork"
+        ],
+        "subjects": [
+          "floral"
+        ],
+        "bodyParts": [
+          "forearm"
+        ]
+      },
+      "sortOrder": 16
+    },
+    {
+      "id": "design-flower-line-art-4",
+      "enabled": true,
+      "title": "对称花形线稿 4",
+      "keywords": [
+        "对称花形线稿 4",
+        "线稿",
+        "几何",
+        "花卉"
+      ],
+      "tags": {
+        "styles": [
+          "linework",
+          "geometric"
+        ],
+        "subjects": [
+          "floral"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 17
+    },
+    {
+      "id": "design-flower-line-art-5",
+      "enabled": true,
+      "title": "对称花形线稿 5",
+      "keywords": [
+        "对称花形线稿 5",
+        "线稿",
+        "几何",
+        "花卉"
+      ],
+      "tags": {
+        "styles": [
+          "linework",
+          "geometric"
+        ],
+        "subjects": [
+          "floral"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 18
+    },
+    {
+      "id": "design-pentagonalornament",
+      "enabled": true,
+      "title": "五角对称装饰",
+      "keywords": [
+        "五角对称装饰",
+        "线稿",
+        "几何"
+      ],
+      "tags": {
+        "styles": [
+          "linework",
+          "geometric"
+        ],
+        "subjects": [],
+        "bodyParts": []
+      },
+      "sortOrder": 19
+    },
+    {
+      "id": "design-compass-rose-in-black-and-white-color",
+      "enabled": true,
+      "title": "黑白罗盘玫瑰",
+      "keywords": [
+        "黑白罗盘玫瑰",
+        "黑白",
+        "几何",
+        "罗盘"
+      ],
+      "tags": {
+        "styles": [
+          "geometric"
+        ],
+        "subjects": [
+          "compass"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 20
+    },
+    {
+      "id": "design-small-bird-silhouette",
+      "enabled": true,
+      "title": "飞鸟黑色剪影",
+      "keywords": [
+        "飞鸟黑色剪影",
+        "黑色剪影",
+        "飞鸟"
+      ],
+      "tags": {
+        "styles": [
+          "silhouette"
+        ],
+        "subjects": [
+          "animal"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 21
+    },
+    {
+      "id": "photo-019",
+      "enabled": true,
+      "title": "猫头鹰与花枝",
+      "keywords": [
+        "猫头鹰与花枝",
+        "彩色",
+        "传统",
+        "猫头鹰",
+        "鸟",
+        "花卉",
+        "肩背"
+      ],
+      "tags": {
+        "styles": [
+          "color",
+          "traditional"
+        ],
+        "subjects": [
+          "animal",
+          "floral"
+        ],
+        "bodyParts": [
+          "shoulder-back"
+        ]
+      },
+      "sortOrder": 22
+    },
+    {
+      "id": "design-phoenix-bird-silhouette",
+      "enabled": true,
+      "title": "凤凰黑色剪影",
+      "keywords": [
+        "凤凰黑色剪影",
+        "黑色剪影",
+        "装饰",
+        "凤凰"
+      ],
+      "tags": {
+        "styles": [
+          "silhouette"
+        ],
+        "subjects": [
+          "animal"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 23
+    },
+    {
+      "id": "photo-020",
+      "enabled": true,
+      "title": "幼鹿与花卉",
+      "keywords": [
+        "幼鹿与花卉",
+        "黑灰",
+        "点刺",
+        "鹿",
+        "动物",
+        "花卉",
+        "小臂"
+      ],
+      "tags": {
+        "styles": [
+          "black-grey",
+          "dotwork"
+        ],
+        "subjects": [
+          "animal",
+          "floral"
+        ],
+        "bodyParts": [
+          "forearm"
+        ]
+      },
+      "sortOrder": 24
+    },
+    {
+      "id": "design-mountains-with-cross",
+      "enabled": true,
+      "title": "山峰轮廓线稿",
+      "keywords": [
+        "山峰轮廓线稿",
+        "线稿",
+        "山峰"
+      ],
+      "tags": {
+        "styles": [
+          "linework"
+        ],
+        "subjects": [
+          "mountains"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 25
+    },
+    {
+      "id": "design-star-drawing",
+      "enabled": true,
+      "title": "装饰星形线稿",
+      "keywords": [
+        "装饰星形线稿",
+        "线稿",
+        "几何",
+        "星形"
+      ],
+      "tags": {
+        "styles": [
+          "linework",
+          "geometric"
+        ],
+        "subjects": [
+          "star"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 26
+    }
+  ],
+  "withdrawnIds": []
+}
