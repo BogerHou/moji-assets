@@ -1,0 +1,1794 @@
+{
+  "schemaVersion": 1,
+  "channel": "public",
+  "revision": "gh-36ad21c517a1f0e16068406a",
+  "items": [
+    {
+      "id": "photo-005",
+      "title": "几何蝴蝶",
+      "kind": "photo",
+      "tags": {
+        "styles": [
+          "black-grey",
+          "geometric"
+        ],
+        "subjects": [
+          "animal",
+          "butterfly"
+        ],
+        "bodyParts": [
+          "calf"
+        ]
+      },
+      "keywords": [
+        "几何蝴蝶",
+        "黑灰",
+        "几何",
+        "蝴蝶",
+        "昆虫",
+        "小腿"
+      ],
+      "sortOrder": 0,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-005/thumbnail.jpg",
+          "width": 270,
+          "height": 360,
+          "bytes": 8843
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-005/detail.jpg",
+          "width": 900,
+          "height": 1200,
+          "bytes": 90886
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-005/download.jpg",
+          "width": 1200,
+          "height": 1858,
+          "bytes": 181468,
+          "attributionIncluded": true,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。",
+            "在原图下方新增作者、来源链接、许可链接及改动说明；导出图片适用原作品所列许可。"
+          ]
+        }
+      },
+      "source": {
+        "author": "DomCarterTattoo",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Dom_Carter_Butterfly_Blackwork_Tattoo.jpg",
+        "licenseId": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attributionText": "Dom Carter Butterfly Blackwork Tattoo.jpg — DomCarterTattoo；纹身作品：Dom Carter；CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/）；来源：https://commons.wikimedia.org/wiki/File:Dom_Carter_Butterfly_Blackwork_Tattoo.jpg。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "photo-009",
+      "title": "月亮与花枝",
+      "kind": "photo",
+      "tags": {
+        "styles": [
+          "fine-line",
+          "black-grey"
+        ],
+        "subjects": [
+          "moon",
+          "floral",
+          "botanical"
+        ],
+        "bodyParts": [
+          "shoulder",
+          "upper-arm"
+        ]
+      },
+      "keywords": [
+        "月亮与花枝",
+        "细线",
+        "黑灰",
+        "月亮",
+        "花卉",
+        "植物",
+        "肩部",
+        "上臂"
+      ],
+      "sortOrder": 10,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-009/thumbnail.jpg",
+          "width": 360,
+          "height": 360,
+          "bytes": 12899
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-009/detail.jpg",
+          "width": 736,
+          "height": 736,
+          "bytes": 52011
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-009/download.jpg",
+          "width": 736,
+          "height": 990,
+          "bytes": 79415,
+          "attributionIncluded": true,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。",
+            "在原图下方新增作者、来源链接、许可链接及改动说明；导出图片适用原作品所列许可。"
+          ]
+        }
+      },
+      "source": {
+        "author": "Brunomenei",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Flower_tattoo,_Bruno_Antonio_Menei,_Inksecte,_Belgium.jpg",
+        "licenseId": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "attributionText": "Flower tattoo, Bruno Antonio Menei, Inksecte, Belgium.jpg — Brunomenei；纹身作品：Bruno Antonio Menei / Inksecte；CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）；来源：https://commons.wikimedia.org/wiki/File:Flower_tattoo,_Bruno_Antonio_Menei,_Inksecte,_Belgium.jpg。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "design-lotus-line-art",
+      "title": "莲花对称线稿",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "linework",
+          "geometric"
+        ],
+        "subjects": [
+          "floral"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "莲花对称线稿",
+        "线稿",
+        "几何",
+        "莲花"
+      ],
+      "sortOrder": 20,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-lotus-line-art/thumbnail.png",
+          "width": 360,
+          "height": 360,
+          "bytes": 25386
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-lotus-line-art/detail.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 30619
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-lotus-line-art/download.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 30619,
+          "attributionIncluded": false,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。"
+          ]
+        }
+      },
+      "source": {
+        "author": "OpenClipart（发布者；素材页未注明原作者）",
+        "pageUrl": "https://freesvg.org/lotus-line-art",
+        "licenseId": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "attributionText": "莲花对称线稿；发布者：OpenClipart；来源：https://freesvg.org/lotus-line-art；CC0 1.0。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "photo-001",
+      "title": "呼啸的狼",
+      "kind": "photo",
+      "tags": {
+        "styles": [
+          "black-grey",
+          "dotwork"
+        ],
+        "subjects": [
+          "animal"
+        ],
+        "bodyParts": [
+          "forearm"
+        ]
+      },
+      "keywords": [
+        "呼啸的狼",
+        "黑灰",
+        "点刺",
+        "狼",
+        "动物",
+        "小臂"
+      ],
+      "sortOrder": 30,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-001/thumbnail.jpg",
+          "width": 270,
+          "height": 360,
+          "bytes": 10278
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-001/detail.jpg",
+          "width": 900,
+          "height": 1200,
+          "bytes": 94218
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-001/download.jpg",
+          "width": 1200,
+          "height": 1858,
+          "bytes": 182185,
+          "attributionIncluded": true,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。",
+            "在原图下方新增作者、来源链接、许可链接及改动说明；导出图片适用原作品所列许可。"
+          ]
+        }
+      },
+      "source": {
+        "author": "DomCarterTattoo",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Dom_Carter_Wolf_Tattoo.jpg",
+        "licenseId": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attributionText": "Dom Carter Wolf Tattoo.jpg — DomCarterTattoo；纹身作品：Dom Carter；CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/）；来源：https://commons.wikimedia.org/wiki/File:Dom_Carter_Wolf_Tattoo.jpg。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "design-butterfly-line-art-11",
+      "title": "蝴蝶装饰线稿",
+      "kind": "design",
+      "tags": {
+        "styles": [],
+        "subjects": [
+          "animal",
+          "butterfly"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "蝴蝶装饰线稿",
+        "黑白",
+        "装饰",
+        "蝴蝶"
+      ],
+      "sortOrder": 40,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-butterfly-line-art-11/thumbnail.png",
+          "width": 360,
+          "height": 360,
+          "bytes": 28646
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-butterfly-line-art-11/detail.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 37886
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-butterfly-line-art-11/download.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 37886,
+          "attributionIncluded": false,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。"
+          ]
+        }
+      },
+      "source": {
+        "author": "OpenClipart（发布者；素材页未注明原作者）",
+        "pageUrl": "https://freesvg.org/butterfly-line-art-11",
+        "licenseId": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "attributionText": "蝴蝶装饰线稿；发布者：OpenClipart；来源：https://freesvg.org/butterfly-line-art-11；CC0 1.0。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "photo-002",
+      "title": "几何熊",
+      "kind": "photo",
+      "tags": {
+        "styles": [
+          "black-grey",
+          "geometric"
+        ],
+        "subjects": [
+          "animal"
+        ],
+        "bodyParts": [
+          "upper-arm"
+        ]
+      },
+      "keywords": [
+        "几何熊",
+        "黑灰",
+        "几何",
+        "熊",
+        "动物",
+        "上臂"
+      ],
+      "sortOrder": 50,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-002/thumbnail.jpg",
+          "width": 270,
+          "height": 360,
+          "bytes": 15357
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-002/detail.jpg",
+          "width": 900,
+          "height": 1200,
+          "bytes": 162021
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-002/download.jpg",
+          "width": 1200,
+          "height": 1858,
+          "bytes": 297344,
+          "attributionIncluded": true,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。",
+            "在原图下方新增作者、来源链接、许可链接及改动说明；导出图片适用原作品所列许可。"
+          ]
+        }
+      },
+      "source": {
+        "author": "DomCarterTattoo",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Dominic_Carter_Bear_Tattoo.jpg",
+        "licenseId": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attributionText": "Dominic Carter Bear Tattoo.jpg — DomCarterTattoo；纹身作品：Dom Carter；CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/）；来源：https://commons.wikimedia.org/wiki/File:Dominic_Carter_Bear_Tattoo.jpg。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "design-outlined-feather",
+      "title": "羽毛轮廓线稿",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "linework"
+        ],
+        "subjects": [
+          "feather"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "羽毛轮廓线稿",
+        "线稿",
+        "羽毛"
+      ],
+      "sortOrder": 60,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-outlined-feather/thumbnail.png",
+          "width": 360,
+          "height": 360,
+          "bytes": 63075
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-outlined-feather/detail.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 85841
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-outlined-feather/download.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 85841,
+          "attributionIncluded": false,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。"
+          ]
+        }
+      },
+      "source": {
+        "author": "OpenClipart（发布者；素材页未注明原作者）",
+        "pageUrl": "https://freesvg.org/outlined-feather",
+        "licenseId": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "attributionText": "羽毛轮廓线稿；发布者：OpenClipart；来源：https://freesvg.org/outlined-feather；CC0 1.0。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "photo-003",
+      "title": "鹿与枝叶",
+      "kind": "photo",
+      "tags": {
+        "styles": [
+          "black-grey",
+          "dotwork"
+        ],
+        "subjects": [
+          "animal",
+          "botanical"
+        ],
+        "bodyParts": [
+          "forearm"
+        ]
+      },
+      "keywords": [
+        "鹿与枝叶",
+        "黑灰",
+        "点刺",
+        "鹿",
+        "动物",
+        "植物",
+        "小臂"
+      ],
+      "sortOrder": 70,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-003/thumbnail.jpg",
+          "width": 270,
+          "height": 360,
+          "bytes": 7494
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-003/detail.jpg",
+          "width": 900,
+          "height": 1200,
+          "bytes": 92380
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-003/download.jpg",
+          "width": 1200,
+          "height": 1858,
+          "bytes": 187808,
+          "attributionIncluded": true,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。",
+            "在原图下方新增作者、来源链接、许可链接及改动说明；导出图片适用原作品所列许可。"
+          ]
+        }
+      },
+      "source": {
+        "author": "DomCarterTattoo",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Dominic_Carter_Deer_Tattoo.jpg",
+        "licenseId": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attributionText": "Dominic Carter Deer Tattoo.jpg — DomCarterTattoo；纹身作品：Dom Carter；CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/）；来源：https://commons.wikimedia.org/wiki/File:Dominic_Carter_Deer_Tattoo.jpg。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "design-line-art-roses",
+      "title": "玫瑰花束线稿",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "linework"
+        ],
+        "subjects": [
+          "floral"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "玫瑰花束线稿",
+        "线稿",
+        "玫瑰",
+        "花卉"
+      ],
+      "sortOrder": 80,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-line-art-roses/thumbnail.png",
+          "width": 360,
+          "height": 360,
+          "bytes": 71561
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-line-art-roses/detail.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 125764
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-line-art-roses/download.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 125764,
+          "attributionIncluded": false,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。"
+          ]
+        }
+      },
+      "source": {
+        "author": "OpenClipart（发布者；素材页未注明原作者）",
+        "pageUrl": "https://freesvg.org/line-art-roses",
+        "licenseId": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "attributionText": "玫瑰花束线稿；发布者：OpenClipart；来源：https://freesvg.org/line-art-roses；CC0 1.0。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "photo-004",
+      "title": "鹰与花叶",
+      "kind": "photo",
+      "tags": {
+        "styles": [
+          "black-grey",
+          "dotwork"
+        ],
+        "subjects": [
+          "animal",
+          "botanical"
+        ],
+        "bodyParts": [
+          "forearm"
+        ]
+      },
+      "keywords": [
+        "鹰与花叶",
+        "黑灰",
+        "点刺",
+        "鹰",
+        "鸟",
+        "植物",
+        "小臂"
+      ],
+      "sortOrder": 90,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-004/thumbnail.jpg",
+          "width": 270,
+          "height": 360,
+          "bytes": 9239
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-004/detail.jpg",
+          "width": 900,
+          "height": 1200,
+          "bytes": 99783
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-004/download.jpg",
+          "width": 1200,
+          "height": 1858,
+          "bytes": 197650,
+          "attributionIncluded": true,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。",
+            "在原图下方新增作者、来源链接、许可链接及改动说明；导出图片适用原作品所列许可。"
+          ]
+        }
+      },
+      "source": {
+        "author": "DomCarterTattoo",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Dominic_Carter_Eagle_Tattoo.jpg",
+        "licenseId": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attributionText": "Dominic Carter Eagle Tattoo.jpg — DomCarterTattoo；纹身作品：Dom Carter；CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/）；来源：https://commons.wikimedia.org/wiki/File:Dominic_Carter_Eagle_Tattoo.jpg。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "design-cat-sketch-line-art",
+      "title": "小猫轮廓线稿",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "linework"
+        ],
+        "subjects": [
+          "animal"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "小猫轮廓线稿",
+        "线稿",
+        "猫"
+      ],
+      "sortOrder": 100,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-cat-sketch-line-art/thumbnail.png",
+          "width": 360,
+          "height": 360,
+          "bytes": 27266
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-cat-sketch-line-art/detail.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 38813
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-cat-sketch-line-art/download.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 38813,
+          "attributionIncluded": false,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。"
+          ]
+        }
+      },
+      "source": {
+        "author": "OpenClipart（发布者；素材页未注明原作者）",
+        "pageUrl": "https://freesvg.org/cat-sketch-line-art",
+        "licenseId": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "attributionText": "小猫轮廓线稿；发布者：OpenClipart；来源：https://freesvg.org/cat-sketch-line-art；CC0 1.0。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "design-cute-cat-line-art",
+      "title": "伏卧猫线稿",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "linework"
+        ],
+        "subjects": [
+          "animal"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "伏卧猫线稿",
+        "线稿",
+        "猫"
+      ],
+      "sortOrder": 120,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-cute-cat-line-art/thumbnail.png",
+          "width": 360,
+          "height": 195,
+          "bytes": 17086
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-cute-cat-line-art/detail.png",
+          "width": 783,
+          "height": 424,
+          "bytes": 31650
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-cute-cat-line-art/download.png",
+          "width": 783,
+          "height": 424,
+          "bytes": 31650,
+          "attributionIncluded": false,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。"
+          ]
+        }
+      },
+      "source": {
+        "author": "OpenClipart（发布者；素材页未注明原作者）",
+        "pageUrl": "https://freesvg.org/cute-cat-line-art",
+        "licenseId": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "attributionText": "伏卧猫线稿；发布者：OpenClipart；来源：https://freesvg.org/cute-cat-line-art；CC0 1.0。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "photo-006",
+      "title": "几何狮子",
+      "kind": "photo",
+      "tags": {
+        "styles": [
+          "black-grey",
+          "geometric"
+        ],
+        "subjects": [
+          "animal"
+        ],
+        "bodyParts": [
+          "forearm"
+        ]
+      },
+      "keywords": [
+        "几何狮子",
+        "黑灰",
+        "几何",
+        "狮子",
+        "动物",
+        "小臂"
+      ],
+      "sortOrder": 130,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-006/thumbnail.jpg",
+          "width": 270,
+          "height": 360,
+          "bytes": 10636
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-006/detail.jpg",
+          "width": 900,
+          "height": 1200,
+          "bytes": 121553
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-006/download.jpg",
+          "width": 1200,
+          "height": 1858,
+          "bytes": 242056,
+          "attributionIncluded": true,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。",
+            "在原图下方新增作者、来源链接、许可链接及改动说明；导出图片适用原作品所列许可。"
+          ]
+        }
+      },
+      "source": {
+        "author": "DomCarterTattoo",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Dom_Carter_Geometric_Tattoo.jpg",
+        "licenseId": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attributionText": "Dom Carter Geometric Tattoo.jpg — DomCarterTattoo；纹身作品：Dom Carter；CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/）；来源：https://commons.wikimedia.org/wiki/File:Dom_Carter_Geometric_Tattoo.jpg。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "design-kitten-and-butterflies",
+      "title": "猫与蝴蝶剪影",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "silhouette"
+        ],
+        "subjects": [
+          "animal",
+          "butterfly"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "猫与蝴蝶剪影",
+        "黑色剪影",
+        "猫",
+        "蝴蝶"
+      ],
+      "sortOrder": 140,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-kitten-and-butterflies/thumbnail.png",
+          "width": 360,
+          "height": 360,
+          "bytes": 8797
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-kitten-and-butterflies/detail.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 9987
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-kitten-and-butterflies/download.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 9987,
+          "attributionIncluded": false,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。"
+          ]
+        }
+      },
+      "source": {
+        "author": "OpenClipart（发布者；素材页未注明原作者）",
+        "pageUrl": "https://freesvg.org/kitten-and-butterflies",
+        "licenseId": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "attributionText": "猫与蝴蝶剪影；发布者：OpenClipart；来源：https://freesvg.org/kitten-and-butterflies；CC0 1.0。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "photo-007",
+      "title": "树懒肖像",
+      "kind": "photo",
+      "tags": {
+        "styles": [
+          "black-grey",
+          "dotwork"
+        ],
+        "subjects": [
+          "animal"
+        ],
+        "bodyParts": [
+          "forearm"
+        ]
+      },
+      "keywords": [
+        "树懒肖像",
+        "黑灰",
+        "点刺",
+        "树懒",
+        "动物",
+        "小臂"
+      ],
+      "sortOrder": 150,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-007/thumbnail.jpg",
+          "width": 270,
+          "height": 360,
+          "bytes": 10123
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-007/detail.jpg",
+          "width": 900,
+          "height": 1200,
+          "bytes": 116767
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-007/download.jpg",
+          "width": 1200,
+          "height": 1858,
+          "bytes": 223510,
+          "attributionIncluded": true,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。",
+            "在原图下方新增作者、来源链接、许可链接及改动说明；导出图片适用原作品所列许可。"
+          ]
+        }
+      },
+      "source": {
+        "author": "DomCarterTattoo",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Dom_Carter_Sloth_Tattoo.jpg",
+        "licenseId": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attributionText": "Dom Carter Sloth Tattoo.jpg — DomCarterTattoo；纹身作品：Dom Carter；CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/）；来源：https://commons.wikimedia.org/wiki/File:Dom_Carter_Sloth_Tattoo.jpg。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "design-crescent-moon-silhouette",
+      "title": "星纹月牙剪影",
+      "kind": "design",
+      "tags": {
+        "styles": [],
+        "subjects": [
+          "moon",
+          "star"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "星纹月牙剪影",
+        "黑白",
+        "装饰",
+        "月亮",
+        "星星"
+      ],
+      "sortOrder": 160,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-crescent-moon-silhouette/thumbnail.png",
+          "width": 360,
+          "height": 360,
+          "bytes": 46006
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-crescent-moon-silhouette/detail.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 65443
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-crescent-moon-silhouette/download.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 65443,
+          "attributionIncluded": false,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。"
+          ]
+        }
+      },
+      "source": {
+        "author": "OpenClipart（发布者；素材页未注明原作者）",
+        "pageUrl": "https://freesvg.org/crescent-moon-silhouette",
+        "licenseId": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "attributionText": "星纹月牙剪影；发布者：OpenClipart；来源：https://freesvg.org/crescent-moon-silhouette；CC0 1.0。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "photo-008",
+      "title": "花与侧脸",
+      "kind": "photo",
+      "tags": {
+        "styles": [
+          "black-grey",
+          "dotwork"
+        ],
+        "subjects": [
+          "floral"
+        ],
+        "bodyParts": [
+          "forearm"
+        ]
+      },
+      "keywords": [
+        "花与侧脸",
+        "黑灰",
+        "点刺",
+        "人物",
+        "花卉",
+        "小臂"
+      ],
+      "sortOrder": 170,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-008/thumbnail.jpg",
+          "width": 270,
+          "height": 360,
+          "bytes": 7911
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-008/detail.jpg",
+          "width": 900,
+          "height": 1200,
+          "bytes": 91616
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-008/download.jpg",
+          "width": 1200,
+          "height": 1858,
+          "bytes": 186851,
+          "attributionIncluded": true,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。",
+            "在原图下方新增作者、来源链接、许可链接及改动说明；导出图片适用原作品所列许可。"
+          ]
+        }
+      },
+      "source": {
+        "author": "DomCarterTattoo",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Dom_Carter_Flower_Girl_Portrait_Tattoo.jpg",
+        "licenseId": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attributionText": "Dom Carter Flower Girl Portrait Tattoo.jpg — DomCarterTattoo；纹身作品：Dom Carter；CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/）；来源：https://commons.wikimedia.org/wiki/File:Dom_Carter_Flower_Girl_Portrait_Tattoo.jpg。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "design-flower-line-art-4",
+      "title": "对称花形线稿 4",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "linework",
+          "geometric"
+        ],
+        "subjects": [
+          "floral"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "对称花形线稿 4",
+        "线稿",
+        "几何",
+        "花卉"
+      ],
+      "sortOrder": 180,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-flower-line-art-4/thumbnail.png",
+          "width": 360,
+          "height": 360,
+          "bytes": 47710
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-flower-line-art-4/detail.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 65536
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-flower-line-art-4/download.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 65536,
+          "attributionIncluded": false,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。"
+          ]
+        }
+      },
+      "source": {
+        "author": "OpenClipart（发布者；素材页未注明原作者）",
+        "pageUrl": "https://freesvg.org/flower-line-art-4",
+        "licenseId": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "attributionText": "对称花形线稿 4；发布者：OpenClipart；来源：https://freesvg.org/flower-line-art-4；CC0 1.0。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "design-flower-line-art-5",
+      "title": "对称花形线稿 5",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "linework",
+          "geometric"
+        ],
+        "subjects": [
+          "floral"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "对称花形线稿 5",
+        "线稿",
+        "几何",
+        "花卉"
+      ],
+      "sortOrder": 190,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-flower-line-art-5/thumbnail.png",
+          "width": 360,
+          "height": 360,
+          "bytes": 56604
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-flower-line-art-5/detail.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 81584
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-flower-line-art-5/download.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 81584,
+          "attributionIncluded": false,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。"
+          ]
+        }
+      },
+      "source": {
+        "author": "OpenClipart（发布者；素材页未注明原作者）",
+        "pageUrl": "https://freesvg.org/flower-line-art-5",
+        "licenseId": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "attributionText": "对称花形线稿 5；发布者：OpenClipart；来源：https://freesvg.org/flower-line-art-5；CC0 1.0。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "design-pentagonalornament",
+      "title": "五角对称装饰",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "linework",
+          "geometric"
+        ],
+        "subjects": [],
+        "bodyParts": []
+      },
+      "keywords": [
+        "五角对称装饰",
+        "线稿",
+        "几何"
+      ],
+      "sortOrder": 200,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-pentagonalornament/thumbnail.png",
+          "width": 360,
+          "height": 360,
+          "bytes": 49113
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-pentagonalornament/detail.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 66034
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-pentagonalornament/download.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 66034,
+          "attributionIncluded": false,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。"
+          ]
+        }
+      },
+      "source": {
+        "author": "OpenClipart（发布者；素材页未注明原作者）",
+        "pageUrl": "https://freesvg.org/pentagonalornament",
+        "licenseId": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "attributionText": "五角对称装饰；发布者：OpenClipart；来源：https://freesvg.org/pentagonalornament；CC0 1.0。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "design-compass-rose-in-black-and-white-color",
+      "title": "黑白罗盘玫瑰",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "geometric"
+        ],
+        "subjects": [
+          "compass"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "黑白罗盘玫瑰",
+        "黑白",
+        "几何",
+        "罗盘"
+      ],
+      "sortOrder": 210,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-compass-rose-in-black-and-white-color/thumbnail.png",
+          "width": 360,
+          "height": 360,
+          "bytes": 19323
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-compass-rose-in-black-and-white-color/detail.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 22310
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-compass-rose-in-black-and-white-color/download.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 22310,
+          "attributionIncluded": false,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。"
+          ]
+        }
+      },
+      "source": {
+        "author": "OpenClipart（发布者；素材页未注明原作者）",
+        "pageUrl": "https://freesvg.org/compass-rose-in-black-and-white-color",
+        "licenseId": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "attributionText": "黑白罗盘玫瑰；发布者：OpenClipart；来源：https://freesvg.org/compass-rose-in-black-and-white-color；CC0 1.0。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "design-small-bird-silhouette",
+      "title": "飞鸟黑色剪影",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "silhouette"
+        ],
+        "subjects": [
+          "animal"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "飞鸟黑色剪影",
+        "黑色剪影",
+        "飞鸟"
+      ],
+      "sortOrder": 220,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-small-bird-silhouette/thumbnail.png",
+          "width": 360,
+          "height": 360,
+          "bytes": 12551
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-small-bird-silhouette/detail.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 15593
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-small-bird-silhouette/download.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 15593,
+          "attributionIncluded": false,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。"
+          ]
+        }
+      },
+      "source": {
+        "author": "OpenClipart（发布者；素材页未注明原作者）",
+        "pageUrl": "https://freesvg.org/small-bird-silhouette",
+        "licenseId": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "attributionText": "飞鸟黑色剪影；发布者：OpenClipart；来源：https://freesvg.org/small-bird-silhouette；CC0 1.0。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "photo-019",
+      "title": "猫头鹰与花枝",
+      "kind": "photo",
+      "tags": {
+        "styles": [
+          "color",
+          "traditional"
+        ],
+        "subjects": [
+          "animal",
+          "floral"
+        ],
+        "bodyParts": [
+          "shoulder-back"
+        ]
+      },
+      "keywords": [
+        "猫头鹰与花枝",
+        "彩色",
+        "传统",
+        "猫头鹰",
+        "鸟",
+        "花卉",
+        "肩背"
+      ],
+      "sortOrder": 230,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-019/thumbnail.jpg",
+          "width": 295,
+          "height": 360,
+          "bytes": 17438
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-019/detail.jpg",
+          "width": 960,
+          "height": 1171,
+          "bytes": 282967
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-019/download.jpg",
+          "width": 960,
+          "height": 1429,
+          "bytes": 314386,
+          "attributionIncluded": true,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。",
+            "在原图下方新增作者、来源链接、许可链接及改动说明；导出图片适用原作品所列许可。"
+          ]
+        }
+      },
+      "source": {
+        "author": "Tattoodelmono",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Buho_tattoo.JPG",
+        "licenseId": "CC-BY-SA-3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "attributionText": "Buho tattoo.JPG — Tattoodelmono；纹身作品：Cristian Cordova / Tattoo del Mono；CC BY-SA 3.0（https://creativecommons.org/licenses/by-sa/3.0/）；来源：https://commons.wikimedia.org/wiki/File:Buho_tattoo.JPG。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "design-phoenix-bird-silhouette",
+      "title": "凤凰黑色剪影",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "silhouette"
+        ],
+        "subjects": [
+          "animal"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "凤凰黑色剪影",
+        "黑色剪影",
+        "装饰",
+        "凤凰"
+      ],
+      "sortOrder": 240,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-phoenix-bird-silhouette/thumbnail.png",
+          "width": 360,
+          "height": 360,
+          "bytes": 55840
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-phoenix-bird-silhouette/detail.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 55796
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-phoenix-bird-silhouette/download.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 55796,
+          "attributionIncluded": false,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。"
+          ]
+        }
+      },
+      "source": {
+        "author": "publicdomainvectors.org（发布者；素材页未注明原作者）",
+        "pageUrl": "https://freesvg.org/phoenix-bird-silhouette",
+        "licenseId": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "attributionText": "凤凰黑色剪影；发布者：publicdomainvectors.org；来源：https://freesvg.org/phoenix-bird-silhouette；CC0 1.0。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "photo-020",
+      "title": "幼鹿与花卉",
+      "kind": "photo",
+      "tags": {
+        "styles": [
+          "black-grey",
+          "dotwork"
+        ],
+        "subjects": [
+          "animal",
+          "floral"
+        ],
+        "bodyParts": [
+          "forearm"
+        ]
+      },
+      "keywords": [
+        "幼鹿与花卉",
+        "黑灰",
+        "点刺",
+        "鹿",
+        "动物",
+        "花卉",
+        "小臂"
+      ],
+      "sortOrder": 250,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-020/thumbnail.jpg",
+          "width": 270,
+          "height": 360,
+          "bytes": 8281
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-020/detail.jpg",
+          "width": 900,
+          "height": 1200,
+          "bytes": 103126
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/photo-020/download.jpg",
+          "width": 960,
+          "height": 1538,
+          "bytes": 157715,
+          "attributionIncluded": true,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。",
+            "在原图下方新增作者、来源链接、许可链接及改动说明；导出图片适用原作品所列许可。"
+          ]
+        }
+      },
+      "source": {
+        "author": "DomCarterTattoo",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Dom_Carter_Deer_Tattoo.jpg",
+        "licenseId": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attributionText": "Dom Carter Deer Tattoo.jpg — DomCarterTattoo；纹身作品：Dom Carter；CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/）；来源：https://commons.wikimedia.org/wiki/File:Dom_Carter_Deer_Tattoo.jpg。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "design-mountains-with-cross",
+      "title": "山峰轮廓线稿",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "linework"
+        ],
+        "subjects": [
+          "mountains"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "山峰轮廓线稿",
+        "线稿",
+        "山峰"
+      ],
+      "sortOrder": 260,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-mountains-with-cross/thumbnail.png",
+          "width": 360,
+          "height": 360,
+          "bytes": 31878
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-mountains-with-cross/detail.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 47157
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-mountains-with-cross/download.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 47157,
+          "attributionIncluded": false,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。"
+          ]
+        }
+      },
+      "source": {
+        "author": "OpenClipart（发布者；素材页未注明原作者）",
+        "pageUrl": "https://freesvg.org/mountains-with-cross",
+        "licenseId": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "attributionText": "山峰轮廓线稿；发布者：OpenClipart；来源：https://freesvg.org/mountains-with-cross；CC0 1.0。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    },
+    {
+      "id": "design-star-drawing",
+      "title": "装饰星形线稿",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "linework",
+          "geometric"
+        ],
+        "subjects": [
+          "star"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "装饰星形线稿",
+        "线稿",
+        "几何",
+        "星形"
+      ],
+      "sortOrder": 270,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-star-drawing/thumbnail.png",
+          "width": 360,
+          "height": 360,
+          "bytes": 61762
+        },
+        "detail": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-star-drawing/detail.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 94612
+        },
+        "download": {
+          "path": "assets/releases/pub-acae4e4d527f11ea/design-star-drawing/download.png",
+          "width": 600,
+          "height": 600,
+          "bytes": 94612,
+          "attributionIncluded": false,
+          "changes": [
+            "自动应用原图方向；等比例缩放与压缩，未裁切，未移除原有水印；导出不保留原文件 EXIF 元数据。"
+          ]
+        }
+      },
+      "source": {
+        "author": "OpenClipart（发布者；素材页未注明原作者）",
+        "pageUrl": "https://freesvg.org/star-drawing",
+        "licenseId": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "attributionText": "装饰星形线稿；发布者：OpenClipart；来源：https://freesvg.org/star-drawing；CC0 1.0。 本图库展示版仅等比例缩放压缩；下载版的具体改动见导出说明。",
+        "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": true,
+        "derivative": true
+      }
+    }
+  ],
+  "presentation": {
+    "taxonomy": {
+      "styles": [
+        {
+          "value": "black-grey",
+          "label": "黑灰"
+        },
+        {
+          "value": "color",
+          "label": "彩色"
+        },
+        {
+          "value": "geometric",
+          "label": "几何"
+        },
+        {
+          "value": "linework",
+          "label": "线稿"
+        },
+        {
+          "value": "fine-line",
+          "label": "细线"
+        },
+        {
+          "value": "silhouette",
+          "label": "剪影"
+        },
+        {
+          "value": "dotwork",
+          "label": "点刺"
+        },
+        {
+          "value": "traditional",
+          "label": "传统"
+        },
+        {
+          "value": "realism",
+          "label": "写实"
+        }
+      ],
+      "subjects": [
+        {
+          "value": "floral",
+          "label": "花卉"
+        },
+        {
+          "value": "animal",
+          "label": "动物"
+        },
+        {
+          "value": "moon",
+          "label": "月亮"
+        },
+        {
+          "value": "lettering",
+          "label": "文字"
+        },
+        {
+          "value": "feather",
+          "label": "羽毛"
+        },
+        {
+          "value": "compass",
+          "label": "罗盘"
+        },
+        {
+          "value": "mountains",
+          "label": "山峰"
+        },
+        {
+          "value": "star",
+          "label": "星星"
+        },
+        {
+          "value": "botanical",
+          "label": "植物"
+        },
+        {
+          "value": "butterfly",
+          "label": "蝴蝶"
+        }
+      ],
+      "bodyParts": [
+        {
+          "value": "forearm",
+          "label": "小臂"
+        },
+        {
+          "value": "upper-arm",
+          "label": "上臂"
+        },
+        {
+          "value": "wrist",
+          "label": "手腕"
+        },
+        {
+          "value": "calf",
+          "label": "小腿"
+        },
+        {
+          "value": "thigh",
+          "label": "大腿"
+        },
+        {
+          "value": "shoulder-back",
+          "label": "肩背"
+        },
+        {
+          "value": "shoulder",
+          "label": "肩部"
+        }
+      ]
+    },
+    "quickSubjects": {
+      "photo": [
+        "floral",
+        "butterfly",
+        "animal",
+        "moon"
+      ],
+      "design": [
+        "floral",
+        "butterfly",
+        "animal",
+        "moon",
+        "compass"
+      ]
+    },
+    "searchSuggestions": {
+      "photo": [
+        "蝴蝶",
+        "花卉",
+        "几何",
+        "动物",
+        "小臂"
+      ],
+      "design": [
+        "蝴蝶",
+        "猫",
+        "罗盘",
+        "线稿"
+      ]
+    }
+  }
+}
