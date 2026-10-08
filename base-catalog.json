@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "public",
-  "revision": "reviewed-f45c6a671d7bed75",
+  "revision": "reviewed-a5c1d956df49b047",
   "items": [
     {
       "id": "exp-cn-yuyi-17",
@@ -35,13 +35,13 @@
       "sortOrder": 0,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/exp-cn-yuyi-17/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/exp-cn-yuyi-17/thumbnail.jpg",
           "width": 214,
           "height": 360,
           "bytes": 11880
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/exp-cn-yuyi-17/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/exp-cn-yuyi-17/detail.jpg",
           "width": 609,
           "height": 1024,
           "bytes": 65851
@@ -92,13 +92,13 @@
       "sortOrder": 10,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-sophia-19/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-sophia-19/thumbnail.jpg",
           "width": 278,
           "height": 360,
           "bytes": 18612
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-sophia-19/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-sophia-19/detail.jpg",
           "width": 500,
           "height": 647,
           "bytes": 75372
@@ -149,13 +149,13 @@
       "sortOrder": 20,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-tc-butterfly-1/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-tc-butterfly-1/thumbnail.jpg",
           "width": 270,
           "height": 360,
           "bytes": 7066
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-tc-butterfly-1/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-tc-butterfly-1/detail.jpg",
           "width": 795,
           "height": 1060,
           "bytes": 59564
@@ -205,13 +205,13 @@
       "sortOrder": 30,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-alberto-01/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-alberto-01/thumbnail.jpg",
           "width": 205,
           "height": 360,
           "bytes": 21413
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-alberto-01/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-alberto-01/detail.jpg",
           "width": 273,
           "height": 480,
           "bytes": 42870
@@ -264,13 +264,13 @@
       "sortOrder": 40,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/exp-cn-kaikai-0/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/exp-cn-kaikai-0/thumbnail.jpg",
           "width": 288,
           "height": 360,
           "bytes": 16365
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/exp-cn-kaikai-0/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/exp-cn-kaikai-0/detail.jpg",
           "width": 853,
           "height": 1066,
           "bytes": 99509
@@ -316,13 +316,13 @@
       "sortOrder": 50,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-ian-19/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-ian-19/thumbnail.jpg",
           "width": 360,
           "height": 360,
           "bytes": 15772
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-ian-19/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-ian-19/detail.jpg",
           "width": 500,
           "height": 500,
           "bytes": 30666
@@ -370,13 +370,13 @@
       "sortOrder": 60,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-asia-jia-portfolio-04/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-asia-jia-portfolio-04/thumbnail.jpg",
           "width": 301,
           "height": 360,
           "bytes": 9438
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-asia-jia-portfolio-04/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-asia-jia-portfolio-04/detail.jpg",
           "width": 500,
           "height": 599,
           "bytes": 30249
@@ -422,13 +422,13 @@
       "sortOrder": 70,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-evan-02/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-evan-02/thumbnail.jpg",
           "width": 283,
           "height": 360,
           "bytes": 19160
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-evan-02/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-evan-02/detail.jpg",
           "width": 500,
           "height": 636,
           "bytes": 57927
@@ -480,13 +480,13 @@
       "sortOrder": 80,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/exp-cn-ryan-9/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/exp-cn-ryan-9/thumbnail.jpg",
           "width": 338,
           "height": 360,
           "bytes": 10055
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/exp-cn-ryan-9/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/exp-cn-ryan-9/detail.jpg",
           "width": 750,
           "height": 798,
           "bytes": 52843
@@ -533,13 +533,13 @@
       "sortOrder": 90,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-ian-04/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-ian-04/thumbnail.jpg",
           "width": 360,
           "height": 360,
           "bytes": 16575
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-ian-04/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-ian-04/detail.jpg",
           "width": 500,
           "height": 500,
           "bytes": 33451
@@ -589,13 +589,13 @@
       "sortOrder": 100,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-asia-hunter-10/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-asia-hunter-10/thumbnail.jpg",
           "width": 270,
           "height": 360,
           "bytes": 15540
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-asia-hunter-10/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-asia-hunter-10/detail.jpg",
           "width": 480,
           "height": 640,
           "bytes": 46152
@@ -644,13 +644,13 @@
       "sortOrder": 110,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-sophia-09/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-sophia-09/thumbnail.jpg",
           "width": 278,
           "height": 360,
           "bytes": 15846
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-sophia-09/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-sophia-09/detail.jpg",
           "width": 500,
           "height": 647,
           "bytes": 67392
@@ -702,13 +702,13 @@
       "sortOrder": 120,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/exp-cn-ken-4/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/exp-cn-ken-4/thumbnail.jpg",
           "width": 360,
           "height": 240,
           "bytes": 14734
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/exp-cn-ken-4/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/exp-cn-ken-4/detail.jpg",
           "width": 600,
           "height": 400,
           "bytes": 51796
@@ -756,13 +756,13 @@
       "sortOrder": 130,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-alberto-02/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-alberto-02/thumbnail.jpg",
           "width": 182,
           "height": 360,
           "bytes": 21492
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-alberto-02/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-alberto-02/detail.jpg",
           "width": 243,
           "height": 480,
           "bytes": 43287
@@ -812,13 +812,13 @@
       "sortOrder": 140,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-matt-178/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-matt-178/thumbnail.jpg",
           "width": 257,
           "height": 360,
           "bytes": 11652
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-matt-178/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-matt-178/detail.jpg",
           "width": 914,
           "height": 1280,
           "bytes": 126983
@@ -865,13 +865,13 @@
       "sortOrder": 150,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-ian-26/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-ian-26/thumbnail.jpg",
           "width": 360,
           "height": 360,
           "bytes": 22747
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-ian-26/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-ian-26/detail.jpg",
           "width": 500,
           "height": 500,
           "bytes": 42688
@@ -924,13 +924,13 @@
       "sortOrder": 160,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/exp-cn-yuyi-6/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/exp-cn-yuyi-6/thumbnail.jpg",
           "width": 270,
           "height": 360,
           "bytes": 8852
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/exp-cn-yuyi-6/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/exp-cn-yuyi-6/detail.jpg",
           "width": 768,
           "height": 1024,
           "bytes": 53665
@@ -978,13 +978,13 @@
       "sortOrder": 170,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-sophia-12/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-sophia-12/thumbnail.jpg",
           "width": 278,
           "height": 360,
           "bytes": 15033
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-sophia-12/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-sophia-12/detail.jpg",
           "width": 500,
           "height": 647,
           "bytes": 64852
@@ -1034,13 +1034,13 @@
       "sortOrder": 180,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-pinky-05/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-pinky-05/thumbnail.jpg",
           "width": 360,
           "height": 360,
           "bytes": 20091
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-pinky-05/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-pinky-05/detail.jpg",
           "width": 500,
           "height": 500,
           "bytes": 42333
@@ -1092,13 +1092,13 @@
       "sortOrder": 190,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-alberto-03/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-alberto-03/thumbnail.jpg",
           "width": 260,
           "height": 360,
           "bytes": 28188
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-alberto-03/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-alberto-03/detail.jpg",
           "width": 346,
           "height": 480,
           "bytes": 55966
@@ -1152,13 +1152,13 @@
       "sortOrder": 200,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/exp-cn-ryan-4/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/exp-cn-ryan-4/thumbnail.jpg",
           "width": 360,
           "height": 223,
           "bytes": 8137
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/exp-cn-ryan-4/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/exp-cn-ryan-4/detail.jpg",
           "width": 750,
           "height": 464,
           "bytes": 28745
@@ -1206,13 +1206,13 @@
       "sortOrder": 210,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-ian-28/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-ian-28/thumbnail.jpg",
           "width": 360,
           "height": 360,
           "bytes": 17834
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-ian-28/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-ian-28/detail.jpg",
           "width": 500,
           "height": 500,
           "bytes": 33980
@@ -1262,13 +1262,13 @@
       "sortOrder": 220,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-wes-31/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-wes-31/thumbnail.jpg",
           "width": 270,
           "height": 360,
           "bytes": 18520
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-wes-31/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-wes-31/detail.jpg",
           "width": 500,
           "height": 666,
           "bytes": 64913
@@ -1315,13 +1315,13 @@
       "sortOrder": 230,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-sophia-18/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-sophia-18/thumbnail.jpg",
           "width": 278,
           "height": 360,
           "bytes": 14647
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-sophia-18/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-sophia-18/detail.jpg",
           "width": 500,
           "height": 647,
           "bytes": 63659
@@ -1375,13 +1375,13 @@
       "sortOrder": 240,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/exp-cn-kaikai-6/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/exp-cn-kaikai-6/thumbnail.jpg",
           "width": 360,
           "height": 360,
           "bytes": 14342
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/exp-cn-kaikai-6/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/exp-cn-kaikai-6/detail.jpg",
           "width": 640,
           "height": 640,
           "bytes": 37055
@@ -1431,13 +1431,13 @@
       "sortOrder": 250,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-alberto-04/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-alberto-04/thumbnail.jpg",
           "width": 335,
           "height": 360,
           "bytes": 36472
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/flash-alberto-04/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/flash-alberto-04/detail.jpg",
           "width": 446,
           "height": 480,
           "bytes": 72457
@@ -1485,13 +1485,13 @@
       "sortOrder": 260,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-justin-09/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-justin-09/thumbnail.jpg",
           "width": 360,
           "height": 360,
           "bytes": 16775
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-justin-09/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-justin-09/detail.jpg",
           "width": 500,
           "height": 500,
           "bytes": 37929
@@ -1545,13 +1545,13 @@
       "sortOrder": 280,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/exp-cn-yuyi-3/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/exp-cn-yuyi-3/thumbnail.jpg",
           "width": 270,
           "height": 360,
           "bytes": 10810
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/exp-cn-yuyi-3/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/exp-cn-yuyi-3/detail.jpg",
           "width": 768,
           "height": 1024,
           "bytes": 71453
@@ -1600,13 +1600,13 @@
       "sortOrder": 300,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-oscar-01/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-oscar-01/thumbnail.jpg",
           "width": 270,
           "height": 360,
           "bytes": 18064
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-oscar-01/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-oscar-01/detail.jpg",
           "width": 500,
           "height": 667,
           "bytes": 68243
@@ -1659,13 +1659,13 @@
       "sortOrder": 320,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/exp-cn-ken-1/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/exp-cn-ken-1/thumbnail.jpg",
           "width": 360,
           "height": 240,
           "bytes": 15236
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/exp-cn-ken-1/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/exp-cn-ken-1/detail.jpg",
           "width": 600,
           "height": 400,
           "bytes": 39042
@@ -1713,13 +1713,13 @@
       "sortOrder": 340,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-brent-2/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-brent-2/thumbnail.jpg",
           "width": 288,
           "height": 360,
           "bytes": 18521
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-brent-2/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-brent-2/detail.jpg",
           "width": 500,
           "height": 625,
           "bytes": 60728
@@ -1770,13 +1770,13 @@
       "sortOrder": 360,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/exp-cn-kaikai-4/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/exp-cn-kaikai-4/thumbnail.jpg",
           "width": 270,
           "height": 360,
           "bytes": 15551
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/exp-cn-kaikai-4/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/exp-cn-kaikai-4/detail.jpg",
           "width": 960,
           "height": 1280,
           "bytes": 182224
@@ -1821,13 +1821,13 @@
       "sortOrder": 380,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-asia-lacey-08/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-asia-lacey-08/thumbnail.jpg",
           "width": 288,
           "height": 360,
           "bytes": 9928
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-asia-lacey-08/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-asia-lacey-08/detail.jpg",
           "width": 1024,
           "height": 1280,
           "bytes": 82102
@@ -1879,13 +1879,13 @@
       "sortOrder": 400,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-felipe-06/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-felipe-06/thumbnail.jpg",
           "width": 360,
           "height": 287,
           "bytes": 13371
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-felipe-06/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-felipe-06/detail.jpg",
           "width": 600,
           "height": 479,
           "bytes": 38763
@@ -1936,13 +1936,13 @@
       "sortOrder": 420,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-tc-flower-1/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-tc-flower-1/thumbnail.jpg",
           "width": 360,
           "height": 360,
           "bytes": 9416
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-tc-flower-1/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-tc-flower-1/detail.jpg",
           "width": 1060,
           "height": 1060,
           "bytes": 67118
@@ -1990,13 +1990,13 @@
       "sortOrder": 440,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-asia-hunter-05/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-asia-hunter-05/thumbnail.jpg",
           "width": 294,
           "height": 360,
           "bytes": 16140
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-asia-hunter-05/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-asia-hunter-05/detail.jpg",
           "width": 480,
           "height": 587,
           "bytes": 43429
@@ -2049,13 +2049,13 @@
       "sortOrder": 460,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-oscar-02/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-oscar-02/thumbnail.jpg",
           "width": 270,
           "height": 360,
           "bytes": 11167
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-oscar-02/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-oscar-02/detail.jpg",
           "width": 500,
           "height": 667,
           "bytes": 35034
@@ -2103,13 +2103,13 @@
       "sortOrder": 480,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-asia-jia-portfolio-08/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-asia-jia-portfolio-08/thumbnail.jpg",
           "width": 301,
           "height": 360,
           "bytes": 14889
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-asia-jia-portfolio-08/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-asia-jia-portfolio-08/detail.jpg",
           "width": 500,
           "height": 599,
           "bytes": 47621
@@ -2154,13 +2154,13 @@
       "sortOrder": 500,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-jake-5/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-jake-5/thumbnail.jpg",
           "width": 240,
           "height": 360,
           "bytes": 17037
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-jake-5/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-jake-5/detail.jpg",
           "width": 535,
           "height": 803,
           "bytes": 83444
@@ -2209,13 +2209,13 @@
       "sortOrder": 520,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-justin-01/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-justin-01/thumbnail.jpg",
           "width": 270,
           "height": 360,
           "bytes": 10049
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-justin-01/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-justin-01/detail.jpg",
           "width": 500,
           "height": 666,
           "bytes": 43253
@@ -2263,13 +2263,13 @@
       "sortOrder": 540,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-matt-182/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-matt-182/thumbnail.jpg",
           "width": 257,
           "height": 360,
           "bytes": 13381
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-matt-182/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-matt-182/detail.jpg",
           "width": 914,
           "height": 1280,
           "bytes": 148339
@@ -2317,13 +2317,13 @@
       "sortOrder": 560,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-asia-lacey-03/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-asia-lacey-03/thumbnail.jpg",
           "width": 270,
           "height": 360,
           "bytes": 10574
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-asia-lacey-03/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-asia-lacey-03/detail.jpg",
           "width": 960,
           "height": 1280,
           "bytes": 143620
@@ -2375,13 +2375,13 @@
       "sortOrder": 580,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-geom-2/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-geom-2/thumbnail.jpg",
           "width": 270,
           "height": 360,
           "bytes": 8934
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-geom-2/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-geom-2/detail.jpg",
           "width": 500,
           "height": 667,
           "bytes": 41366
@@ -2431,13 +2431,13 @@
       "sortOrder": 600,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-asia-hunter-07/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-asia-hunter-07/thumbnail.jpg",
           "width": 270,
           "height": 360,
           "bytes": 13504
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-asia-hunter-07/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-asia-hunter-07/detail.jpg",
           "width": 479,
           "height": 639,
           "bytes": 42090
@@ -2486,13 +2486,13 @@
       "sortOrder": 620,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-pinky-00/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-pinky-00/thumbnail.jpg",
           "width": 202,
           "height": 360,
           "bytes": 12488
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-pinky-00/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-pinky-00/detail.jpg",
           "width": 500,
           "height": 889,
           "bytes": 74190
@@ -2545,13 +2545,13 @@
       "sortOrder": 640,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-asia-jia-portfolio-17/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-asia-jia-portfolio-17/thumbnail.jpg",
           "width": 301,
           "height": 360,
           "bytes": 9843
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-asia-jia-portfolio-17/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-asia-jia-portfolio-17/detail.jpg",
           "width": 500,
           "height": 598,
           "bytes": 32485
@@ -2599,13 +2599,13 @@
       "sortOrder": 660,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-matt-170/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-matt-170/thumbnail.jpg",
           "width": 257,
           "height": 360,
           "bytes": 13251
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-matt-170/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-matt-170/detail.jpg",
           "width": 914,
           "height": 1280,
           "bytes": 147863
@@ -2655,13 +2655,13 @@
       "sortOrder": 680,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-asia-lacey-02/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-asia-lacey-02/thumbnail.jpg",
           "width": 288,
           "height": 360,
           "bytes": 8655
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-asia-lacey-02/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-asia-lacey-02/detail.jpg",
           "width": 1024,
           "height": 1280,
           "bytes": 76279
@@ -2710,13 +2710,13 @@
       "sortOrder": 700,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-justin-03/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-justin-03/thumbnail.jpg",
           "width": 360,
           "height": 360,
           "bytes": 14910
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/styles-justin-03/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/styles-justin-03/detail.jpg",
           "width": 500,
           "height": 500,
           "bytes": 38921
@@ -2768,13 +2768,13 @@
       "sortOrder": 720,
       "assets": {
         "thumbnail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-asia-hunter-12/thumbnail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-asia-hunter-12/thumbnail.jpg",
           "width": 360,
           "height": 360,
           "bytes": 19034
         },
         "detail": {
-          "path": "assets/reviewed-f45c6a671d7bed75/photo-ref-asia-hunter-12/detail.jpg",
+          "path": "assets/reviewed-a5c1d956df49b047/photo-ref-asia-hunter-12/detail.jpg",
           "width": 480,
           "height": 480,
           "bytes": 35647
@@ -2787,6 +2787,2025 @@
         "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
         "attributionText": "精灵球与水彩色块 — Hunter Dark。来源：https://www.windfalltattoostudio.com/hunter。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
         "verifiedAt": "2026-10-07"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-japanese-tiger-d96ca3",
+      "title": "竹林云雾下山虎",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "japanese"
+        ],
+        "subjects": [
+          "animals",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "竹林云雾下山虎",
+        "日式",
+        "动物",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "虎",
+        "老虎"
+      ],
+      "sortOrder": 15,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-japanese-tiger-d96ca3/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 23763
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-japanese-tiger-d96ca3/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 223337
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/japanese-tiger-d96ca3",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "竹林云雾下山虎 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/japanese-tiger-d96ca3。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-realism-tiger-1740e2",
+      "title": "黑灰咆哮虎头",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "black-grey-realism"
+        ],
+        "subjects": [
+          "animals",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "黑灰咆哮虎头",
+        "黑灰写实",
+        "动物",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "虎",
+        "老虎"
+      ],
+      "sortOrder": 22,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-realism-tiger-1740e2/thumbnail.jpg",
+          "width": 360,
+          "height": 269,
+          "bytes": 16808
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-realism-tiger-1740e2/detail.jpg",
+          "width": 1280,
+          "height": 956,
+          "bytes": 187071
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/realism-tiger-1740e2",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "黑灰咆哮虎头 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/realism-tiger-1740e2。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-japanese-design-019235",
+      "title": "圆月暗影武士",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "blackwork"
+        ],
+        "subjects": [
+          "characters",
+          "mythic",
+          "objects"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "圆月暗影武士",
+        "黑工",
+        "人物",
+        "神话意象",
+        "器物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia"
+      ],
+      "sortOrder": 29,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-japanese-design-019235/thumbnail.jpg",
+          "width": 240,
+          "height": 360,
+          "bytes": 16866
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-japanese-design-019235/detail.jpg",
+          "width": 512,
+          "height": 768,
+          "bytes": 70097
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/japanese-design-019235",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "圆月暗影武士 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/japanese-design-019235。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-japanese-guitar-77e6ba",
+      "title": "和服吉他黑猫",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "neo-traditional"
+        ],
+        "subjects": [
+          "animals",
+          "pets",
+          "objects"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "和服吉他黑猫",
+        "新传统",
+        "动物",
+        "宠物",
+        "器物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "猫"
+      ],
+      "sortOrder": 36,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-japanese-guitar-77e6ba/thumbnail.jpg",
+          "width": 240,
+          "height": 360,
+          "bytes": 25006
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-japanese-guitar-77e6ba/detail.jpg",
+          "width": 832,
+          "height": 1248,
+          "bytes": 232702
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/japanese-guitar-77e6ba",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "和服吉他黑猫 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/japanese-guitar-77e6ba。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-fine-line-flower-0538b1",
+      "title": "细线牡丹藤蔓",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "细线牡丹藤蔓",
+        "细线极简",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia"
+      ],
+      "sortOrder": 43,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-fine-line-flower-0538b1/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 7851
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-fine-line-flower-0538b1/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 85971
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/fine-line-flower-0538b1",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "细线牡丹藤蔓 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/fine-line-flower-0538b1。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-blackwork-sun-bcacf7",
+      "title": "部落太阳徽纹",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "tribal"
+        ],
+        "subjects": [
+          "geometric-motifs",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "部落太阳徽纹",
+        "部落图案",
+        "几何纹样",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "太阳"
+      ],
+      "sortOrder": 50,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-blackwork-sun-bcacf7/thumbnail.jpg",
+          "width": 269,
+          "height": 360,
+          "bytes": 14449
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-blackwork-sun-bcacf7/detail.jpg",
+          "width": 956,
+          "height": 1280,
+          "bytes": 127281
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/blackwork-sun-bcacf7",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "部落太阳徽纹 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/blackwork-sun-bcacf7。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-traditional-rose-ecf896",
+      "title": "燕子与红玫瑰",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "american-traditional"
+        ],
+        "subjects": [
+          "animals",
+          "flowers"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "燕子与红玫瑰",
+        "美式传统",
+        "动物",
+        "花卉",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "玫瑰",
+        "燕子"
+      ],
+      "sortOrder": 57,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-traditional-rose-ecf896/thumbnail.jpg",
+          "width": 269,
+          "height": 360,
+          "bytes": 15153
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-traditional-rose-ecf896/detail.jpg",
+          "width": 956,
+          "height": 1280,
+          "bytes": 123359
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/traditional-rose-ecf896",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "燕子与红玫瑰 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/traditional-rose-ecf896。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-geometric-mandala-ce598b",
+      "title": "叠层星形曼陀罗",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "dotwork-geometric"
+        ],
+        "subjects": [
+          "geometric-motifs",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "叠层星形曼陀罗",
+        "点刺几何",
+        "几何纹样",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia"
+      ],
+      "sortOrder": 64,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-geometric-mandala-ce598b/thumbnail.jpg",
+          "width": 269,
+          "height": 360,
+          "bytes": 24348
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-geometric-mandala-ce598b/detail.jpg",
+          "width": 956,
+          "height": 1280,
+          "bytes": 254727
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/geometric-mandala-ce598b",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "叠层星形曼陀罗 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/geometric-mandala-ce598b。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-floral-lavender-52c15d",
+      "title": "花束与细叶纹样",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "ornamental"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "花束与细叶纹样",
+        "装饰图案",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花"
+      ],
+      "sortOrder": 71,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-floral-lavender-52c15d/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 10535
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-floral-lavender-52c15d/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 112519
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/floral-lavender-52c15d",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "花束与细叶纹样 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/floral-lavender-52c15d。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-watercolor-hummingbird-75bc60",
+      "title": "展翅蜂鸟与水彩花枝",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "watercolor"
+        ],
+        "subjects": [
+          "animals",
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "展翅蜂鸟与水彩花枝",
+        "水彩",
+        "动物",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花",
+        "蜂鸟"
+      ],
+      "sortOrder": 78,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-watercolor-hummingbird-75bc60/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 11339
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-watercolor-hummingbird-75bc60/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 113204
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/watercolor-hummingbird-75bc60",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "展翅蜂鸟与水彩花枝 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/watercolor-hummingbird-75bc60。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-sketch-horse-3933b7",
+      "title": "马头与卷叶素描",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "sketch"
+        ],
+        "subjects": [
+          "animals",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "马头与卷叶素描",
+        "素描",
+        "动物",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "马"
+      ],
+      "sortOrder": 85,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-sketch-horse-3933b7/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 15491
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-sketch-horse-3933b7/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 189795
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/sketch-horse-3933b7",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "马头与卷叶素描 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/sketch-horse-3933b7。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-japanese-tiger-ff9ef6",
+      "title": "竹影迎面猛虎",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "japanese"
+        ],
+        "subjects": [
+          "animals",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "竹影迎面猛虎",
+        "日式",
+        "动物",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "虎",
+        "老虎"
+      ],
+      "sortOrder": 92,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-japanese-tiger-ff9ef6/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 28906
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-japanese-tiger-ff9ef6/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 297514
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/japanese-tiger-ff9ef6",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "竹影迎面猛虎 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/japanese-tiger-ff9ef6。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-blackwork-wolf-head-ad8561",
+      "title": "黑工狼首藤纹",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "blackwork"
+        ],
+        "subjects": [
+          "animals",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "黑工狼首藤纹",
+        "黑工",
+        "动物",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "狼"
+      ],
+      "sortOrder": 99,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-blackwork-wolf-head-ad8561/thumbnail.jpg",
+          "width": 269,
+          "height": 360,
+          "bytes": 18433
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-blackwork-wolf-head-ad8561/detail.jpg",
+          "width": 956,
+          "height": 1280,
+          "bytes": 126375
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/blackwork-wolf-head-ad8561",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "黑工狼首藤纹 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/blackwork-wolf-head-ad8561。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-fine-line-crescent-moon-f941dc",
+      "title": "星月细线花纹",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "decorative-motifs",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "星月细线花纹",
+        "细线极简",
+        "装饰纹样",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花"
+      ],
+      "sortOrder": 106,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-fine-line-crescent-moon-f941dc/thumbnail.jpg",
+          "width": 360,
+          "height": 360,
+          "bytes": 4235
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-fine-line-crescent-moon-f941dc/detail.jpg",
+          "width": 1280,
+          "height": 1280,
+          "bytes": 31815
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/fine-line-crescent-moon-f941dc",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "星月细线花纹 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/fine-line-crescent-moon-f941dc。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-traditional-panther-2a764f",
+      "title": "豹头与玫瑰",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "american-traditional"
+        ],
+        "subjects": [
+          "animals",
+          "flowers"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "豹头与玫瑰",
+        "美式传统",
+        "动物",
+        "花卉",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "玫瑰",
+        "豹"
+      ],
+      "sortOrder": 113,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-traditional-panther-2a764f/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 20898
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-traditional-panther-2a764f/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 172775
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/traditional-panther-2a764f",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "豹头与玫瑰 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/traditional-panther-2a764f。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-geometric-wolf-head-43096f",
+      "title": "正面几何狼头",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "dotwork-geometric"
+        ],
+        "subjects": [
+          "animals",
+          "geometric-motifs"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "正面几何狼头",
+        "点刺几何",
+        "动物",
+        "几何纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "狼",
+        "几何"
+      ],
+      "sortOrder": 120,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-geometric-wolf-head-43096f/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 14101
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-geometric-wolf-head-43096f/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 156775
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/geometric-wolf-head-43096f",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "正面几何狼头 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/geometric-wolf-head-43096f。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-watercolor-poppy-cb9623",
+      "title": "水彩花朵与流彩",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "watercolor"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "水彩花朵与流彩",
+        "水彩",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花"
+      ],
+      "sortOrder": 127,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-watercolor-poppy-cb9623/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 10543
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-watercolor-poppy-cb9623/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 112801
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/watercolor-poppy-cb9623",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "水彩花朵与流彩 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/watercolor-poppy-cb9623。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-sketch-moth-ffd520",
+      "title": "指尖飞蛾与枝叶",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "sketch"
+        ],
+        "subjects": [
+          "insects",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "指尖飞蛾与枝叶",
+        "素描",
+        "昆虫",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "飞蛾"
+      ],
+      "sortOrder": 134,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-sketch-moth-ffd520/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 13493
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-sketch-moth-ffd520/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 157089
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/sketch-moth-ffd520",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "指尖飞蛾与枝叶 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/sketch-moth-ffd520。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-japanese-crescent-moon-ad6573",
+      "title": "弯月云纹飞蛾",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "japanese"
+        ],
+        "subjects": [
+          "insects",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "弯月云纹飞蛾",
+        "日式",
+        "昆虫",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "飞蛾"
+      ],
+      "sortOrder": 141,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-japanese-crescent-moon-ad6573/thumbnail.jpg",
+          "width": 240,
+          "height": 360,
+          "bytes": 15984
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-japanese-crescent-moon-ad6573/detail.jpg",
+          "width": 512,
+          "height": 768,
+          "bytes": 62100
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/japanese-crescent-moon-ad6573",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "弯月云纹飞蛾 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/japanese-crescent-moon-ad6573。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-blackwork-silhouette-1eb02b",
+      "title": "叶纹侧面狼首",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "blackwork"
+        ],
+        "subjects": [
+          "animals",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "叶纹侧面狼首",
+        "黑工",
+        "动物",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "狼"
+      ],
+      "sortOrder": 148,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-blackwork-silhouette-1eb02b/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 17726
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-blackwork-silhouette-1eb02b/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 131776
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/blackwork-silhouette-1eb02b",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "叶纹侧面狼首 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/blackwork-silhouette-1eb02b。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-fine-line-design-010e16",
+      "title": "双燕星月枝叶",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "animals",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "双燕星月枝叶",
+        "细线极简",
+        "动物",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia"
+      ],
+      "sortOrder": 155,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-fine-line-design-010e16/thumbnail.jpg",
+          "width": 360,
+          "height": 269,
+          "bytes": 7828
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-fine-line-design-010e16/detail.jpg",
+          "width": 1280,
+          "height": 956,
+          "bytes": 85051
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/fine-line-design-010e16",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "双燕星月枝叶 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/fine-line-design-010e16。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-traditional-panther-032944",
+      "title": "黑豹船锚与玫瑰",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "american-traditional"
+        ],
+        "subjects": [
+          "animals",
+          "flowers",
+          "nautical"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "黑豹船锚与玫瑰",
+        "美式传统",
+        "动物",
+        "花卉",
+        "航海",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "玫瑰",
+        "豹"
+      ],
+      "sortOrder": 162,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-traditional-panther-032944/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 18867
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-traditional-panther-032944/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 151059
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/traditional-panther-032944",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "黑豹船锚与玫瑰 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/traditional-panther-032944。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-geometric-wolf-head-4d452d",
+      "title": "侧向折面狼头",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "dotwork-geometric"
+        ],
+        "subjects": [
+          "animals",
+          "geometric-motifs"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "侧向折面狼头",
+        "点刺几何",
+        "动物",
+        "几何纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "狼"
+      ],
+      "sortOrder": 169,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-geometric-wolf-head-4d452d/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 17815
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-geometric-wolf-head-4d452d/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 183007
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/geometric-wolf-head-4d452d",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "侧向折面狼头 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/geometric-wolf-head-4d452d。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-watercolor-hummingbird-87d226",
+      "title": "蜂鸟与彩色花叶",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "watercolor"
+        ],
+        "subjects": [
+          "animals",
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "蜂鸟与彩色花叶",
+        "水彩",
+        "动物",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花",
+        "蜂鸟"
+      ],
+      "sortOrder": 176,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-watercolor-hummingbird-87d226/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 17103
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-watercolor-hummingbird-87d226/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 168120
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/watercolor-hummingbird-87d226",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "蜂鸟与彩色花叶 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/watercolor-hummingbird-87d226。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-sketch-horse-80c0ed",
+      "title": "马头与花束素描",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "sketch"
+        ],
+        "subjects": [
+          "animals",
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "马头与花束素描",
+        "素描",
+        "动物",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花",
+        "马"
+      ],
+      "sortOrder": 183,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-sketch-horse-80c0ed/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 14206
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-sketch-horse-80c0ed/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 179084
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/sketch-horse-80c0ed",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "马头与花束素描 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/sketch-horse-80c0ed。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-japanese-phoenix-354e04",
+      "title": "花云长尾凤凰",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "japanese"
+        ],
+        "subjects": [
+          "dragons-phoenixes",
+          "mythic",
+          "flowers"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "花云长尾凤凰",
+        "日式",
+        "龙凤",
+        "神话意象",
+        "花卉",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "凤凰",
+        "花"
+      ],
+      "sortOrder": 190,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-japanese-phoenix-354e04/thumbnail.jpg",
+          "width": 269,
+          "height": 360,
+          "bytes": 22066
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-japanese-phoenix-354e04/detail.jpg",
+          "width": 956,
+          "height": 1280,
+          "bytes": 216670
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/japanese-phoenix-354e04",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "花云长尾凤凰 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/japanese-phoenix-354e04。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-blackwork-branch-5fd483",
+      "title": "乌鸦与枝叶黑工图案",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "blackwork"
+        ],
+        "subjects": [
+          "animals",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "乌鸦与枝叶黑工图案",
+        "黑工",
+        "动物",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "乌鸦"
+      ],
+      "sortOrder": 197,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-blackwork-branch-5fd483/thumbnail.jpg",
+          "width": 360,
+          "height": 269,
+          "bytes": 17900
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-blackwork-branch-5fd483/detail.jpg",
+          "width": 1280,
+          "height": 956,
+          "bytes": 159770
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/blackwork-branch-5fd483",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "乌鸦与枝叶黑工图案 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/blackwork-branch-5fd483。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-fine-line-design-700b32",
+      "title": "星点细线长花枝",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "星点细线长花枝",
+        "细线极简",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花"
+      ],
+      "sortOrder": 204,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-fine-line-design-700b32/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 5648
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-fine-line-design-700b32/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 50887
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/fine-line-design-700b32",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "星点细线长花枝 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/fine-line-design-700b32。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-geometric-mandala-2187fe",
+      "title": "斜向星环几何纹样",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "dotwork-geometric"
+        ],
+        "subjects": [
+          "geometric-motifs",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "斜向星环几何纹样",
+        "点刺几何",
+        "几何纹样",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "几何"
+      ],
+      "sortOrder": 211,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-geometric-mandala-2187fe/thumbnail.jpg",
+          "width": 269,
+          "height": 360,
+          "bytes": 18520
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-geometric-mandala-2187fe/detail.jpg",
+          "width": 956,
+          "height": 1280,
+          "bytes": 183660
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/geometric-mandala-2187fe",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "斜向星环几何纹样 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/geometric-mandala-2187fe。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-watercolor-poppy-9debb2",
+      "title": "绽放花朵水彩图案",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "watercolor"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "绽放花朵水彩图案",
+        "水彩",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花"
+      ],
+      "sortOrder": 218,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-watercolor-poppy-9debb2/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 15671
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-watercolor-poppy-9debb2/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 157510
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/watercolor-poppy-9debb2",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "绽放花朵水彩图案 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/watercolor-poppy-9debb2。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-japanese-wave-61967e",
+      "title": "红鳍锦鲤浪花",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "japanese"
+        ],
+        "subjects": [
+          "animals",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "红鳍锦鲤浪花",
+        "日式",
+        "动物",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "锦鲤",
+        "花"
+      ],
+      "sortOrder": 225,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-japanese-wave-61967e/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 19787
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-japanese-wave-61967e/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 174333
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/japanese-wave-61967e",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "红鳍锦鲤浪花 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/japanese-wave-61967e。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-blackwork-silhouette-473486",
+      "title": "狼与草叶剪影",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "blackwork"
+        ],
+        "subjects": [
+          "animals",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "狼与草叶剪影",
+        "黑工",
+        "动物",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "狼"
+      ],
+      "sortOrder": 232,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-blackwork-silhouette-473486/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 12742
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-blackwork-silhouette-473486/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 87500
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/blackwork-silhouette-473486",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "狼与草叶剪影 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/blackwork-silhouette-473486。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-fine-line-design-fce3c9",
+      "title": "单花留白线稿",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "单花留白线稿",
+        "细线极简",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花"
+      ],
+      "sortOrder": 239,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-fine-line-design-fce3c9/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 3427
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-fine-line-design-fce3c9/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 33945
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/fine-line-design-fce3c9",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "单花留白线稿 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/fine-line-design-fce3c9。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-floral-peony-99e425",
+      "title": "牡丹与卷叶细线图案",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "牡丹与卷叶细线图案",
+        "细线极简",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia"
+      ],
+      "sortOrder": 246,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-floral-peony-99e425/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 13909
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-floral-peony-99e425/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 149371
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/floral-peony-99e425",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "牡丹与卷叶细线图案 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/floral-peony-99e425。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-floral-lavender-c2d370",
+      "title": "穗状花枝与卷叶",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "穗状花枝与卷叶",
+        "细线极简",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花"
+      ],
+      "sortOrder": 253,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-floral-lavender-c2d370/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 9505
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-floral-lavender-c2d370/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 101778
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/floral-lavender-c2d370",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "穗状花枝与卷叶 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/floral-lavender-c2d370。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-floral-peony-37b69c",
+      "title": "牡丹花叶纵向图案",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "牡丹花叶纵向图案",
+        "细线极简",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花"
+      ],
+      "sortOrder": 260,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-floral-peony-37b69c/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 13665
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-floral-peony-37b69c/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 148599
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/floral-peony-37b69c",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "牡丹花叶纵向图案 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/floral-peony-37b69c。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
+      },
+      "rights": {
+        "display": true,
+        "download": false,
+        "derivative": false
+      }
+    },
+    {
+      "id": "tatuvia-floral-design-61c5d1",
+      "title": "单朵花与流动叶线",
+      "kind": "design",
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "keywords": [
+        "单朵花与流动叶线",
+        "细线极简",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花"
+      ],
+      "sortOrder": 267,
+      "assets": {
+        "thumbnail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-floral-design-61c5d1/thumbnail.jpg",
+          "width": 242,
+          "height": 360,
+          "bytes": 11351
+        },
+        "detail": {
+          "path": "assets/reviewed-a5c1d956df49b047/tatuvia-floral-design-61c5d1/detail.jpg",
+          "width": 859,
+          "height": 1280,
+          "bytes": 128594
+        }
+      },
+      "source": {
+        "author": "Tatuvia 用户",
+        "pageUrl": "https://tatuvia.com/design/floral-design-61c5d1",
+        "licenseId": "未确认再分发授权",
+        "licenseUrl": "https://github.com/BogerHou/moji-assets/blob/main/LICENSES.md",
+        "attributionText": "单朵花与流动叶线 — Tatuvia 用户。AI 生成纹身灵感参考。来源：https://tatuvia.com/design/floral-design-61c5d1。作品版权归各自权利人；公开再分发授权未核实，来源核对不代表作者许可。展示图仅等比例缩放、压缩及必要的格式转换，未裁切或移除水印；本小程序不提供保存或试贴。",
+        "verifiedAt": "2026-10-08"
       },
       "rights": {
         "display": true,

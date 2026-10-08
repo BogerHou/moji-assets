@@ -199,12 +199,14 @@
         "geometric-motifs"
       ],
       "design": [
+        "animals",
         "flowers",
+        "dragons-phoenixes",
+        "geometric-motifs",
         "plants",
         "decorative-motifs",
-        "objects",
-        "animals",
-        "insects"
+        "insects",
+        "objects"
       ]
     },
     "searchSuggestions": {
@@ -219,14 +221,14 @@
         "黑灰写实"
       ],
       "design": [
+        "老虎",
+        "凤凰",
+        "锦鲤",
+        "细线",
         "美式传统",
         "黑工",
-        "新传统",
-        "哥特",
-        "玫瑰",
-        "植物",
-        "装饰图案",
-        "细线"
+        "花卉",
+        "几何"
       ]
     }
   },
@@ -1671,6 +1673,1026 @@
         ]
       },
       "sortOrder": 720
+    },
+    {
+      "id": "tatuvia-japanese-tiger-d96ca3",
+      "enabled": true,
+      "title": "竹林云雾下山虎",
+      "keywords": [
+        "竹林云雾下山虎",
+        "日式",
+        "动物",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "虎",
+        "老虎"
+      ],
+      "tags": {
+        "styles": [
+          "japanese"
+        ],
+        "subjects": [
+          "animals",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 15
+    },
+    {
+      "id": "tatuvia-realism-tiger-1740e2",
+      "enabled": true,
+      "title": "黑灰咆哮虎头",
+      "keywords": [
+        "黑灰咆哮虎头",
+        "黑灰写实",
+        "动物",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "虎",
+        "老虎"
+      ],
+      "tags": {
+        "styles": [
+          "black-grey-realism"
+        ],
+        "subjects": [
+          "animals",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 22
+    },
+    {
+      "id": "tatuvia-japanese-design-019235",
+      "enabled": true,
+      "title": "圆月暗影武士",
+      "keywords": [
+        "圆月暗影武士",
+        "黑工",
+        "人物",
+        "神话意象",
+        "器物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia"
+      ],
+      "tags": {
+        "styles": [
+          "blackwork"
+        ],
+        "subjects": [
+          "characters",
+          "mythic",
+          "objects"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 29
+    },
+    {
+      "id": "tatuvia-japanese-guitar-77e6ba",
+      "enabled": true,
+      "title": "和服吉他黑猫",
+      "keywords": [
+        "和服吉他黑猫",
+        "新传统",
+        "动物",
+        "宠物",
+        "器物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "猫"
+      ],
+      "tags": {
+        "styles": [
+          "neo-traditional"
+        ],
+        "subjects": [
+          "animals",
+          "pets",
+          "objects"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 36
+    },
+    {
+      "id": "tatuvia-fine-line-flower-0538b1",
+      "enabled": true,
+      "title": "细线牡丹藤蔓",
+      "keywords": [
+        "细线牡丹藤蔓",
+        "细线极简",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia"
+      ],
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 43
+    },
+    {
+      "id": "tatuvia-blackwork-sun-bcacf7",
+      "enabled": true,
+      "title": "部落太阳徽纹",
+      "keywords": [
+        "部落太阳徽纹",
+        "部落图案",
+        "几何纹样",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "太阳"
+      ],
+      "tags": {
+        "styles": [
+          "tribal"
+        ],
+        "subjects": [
+          "geometric-motifs",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 50
+    },
+    {
+      "id": "tatuvia-traditional-rose-ecf896",
+      "enabled": true,
+      "title": "燕子与红玫瑰",
+      "keywords": [
+        "燕子与红玫瑰",
+        "美式传统",
+        "动物",
+        "花卉",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "玫瑰",
+        "燕子"
+      ],
+      "tags": {
+        "styles": [
+          "american-traditional"
+        ],
+        "subjects": [
+          "animals",
+          "flowers"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 57
+    },
+    {
+      "id": "tatuvia-geometric-mandala-ce598b",
+      "enabled": true,
+      "title": "叠层星形曼陀罗",
+      "keywords": [
+        "叠层星形曼陀罗",
+        "点刺几何",
+        "几何纹样",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia"
+      ],
+      "tags": {
+        "styles": [
+          "dotwork-geometric"
+        ],
+        "subjects": [
+          "geometric-motifs",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 64
+    },
+    {
+      "id": "tatuvia-floral-lavender-52c15d",
+      "enabled": true,
+      "title": "花束与细叶纹样",
+      "keywords": [
+        "花束与细叶纹样",
+        "装饰图案",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花"
+      ],
+      "tags": {
+        "styles": [
+          "ornamental"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 71
+    },
+    {
+      "id": "tatuvia-watercolor-hummingbird-75bc60",
+      "enabled": true,
+      "title": "展翅蜂鸟与水彩花枝",
+      "keywords": [
+        "展翅蜂鸟与水彩花枝",
+        "水彩",
+        "动物",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花",
+        "蜂鸟"
+      ],
+      "tags": {
+        "styles": [
+          "watercolor"
+        ],
+        "subjects": [
+          "animals",
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 78
+    },
+    {
+      "id": "tatuvia-sketch-horse-3933b7",
+      "enabled": true,
+      "title": "马头与卷叶素描",
+      "keywords": [
+        "马头与卷叶素描",
+        "素描",
+        "动物",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "马"
+      ],
+      "tags": {
+        "styles": [
+          "sketch"
+        ],
+        "subjects": [
+          "animals",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 85
+    },
+    {
+      "id": "tatuvia-japanese-tiger-ff9ef6",
+      "enabled": true,
+      "title": "竹影迎面猛虎",
+      "keywords": [
+        "竹影迎面猛虎",
+        "日式",
+        "动物",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "虎",
+        "老虎"
+      ],
+      "tags": {
+        "styles": [
+          "japanese"
+        ],
+        "subjects": [
+          "animals",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 92
+    },
+    {
+      "id": "tatuvia-blackwork-wolf-head-ad8561",
+      "enabled": true,
+      "title": "黑工狼首藤纹",
+      "keywords": [
+        "黑工狼首藤纹",
+        "黑工",
+        "动物",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "狼"
+      ],
+      "tags": {
+        "styles": [
+          "blackwork"
+        ],
+        "subjects": [
+          "animals",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 99
+    },
+    {
+      "id": "tatuvia-fine-line-crescent-moon-f941dc",
+      "enabled": true,
+      "title": "星月细线花纹",
+      "keywords": [
+        "星月细线花纹",
+        "细线极简",
+        "装饰纹样",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花"
+      ],
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "decorative-motifs",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 106
+    },
+    {
+      "id": "tatuvia-traditional-panther-2a764f",
+      "enabled": true,
+      "title": "豹头与玫瑰",
+      "keywords": [
+        "豹头与玫瑰",
+        "美式传统",
+        "动物",
+        "花卉",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "玫瑰",
+        "豹"
+      ],
+      "tags": {
+        "styles": [
+          "american-traditional"
+        ],
+        "subjects": [
+          "animals",
+          "flowers"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 113
+    },
+    {
+      "id": "tatuvia-geometric-wolf-head-43096f",
+      "enabled": true,
+      "title": "正面几何狼头",
+      "keywords": [
+        "正面几何狼头",
+        "点刺几何",
+        "动物",
+        "几何纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "狼",
+        "几何"
+      ],
+      "tags": {
+        "styles": [
+          "dotwork-geometric"
+        ],
+        "subjects": [
+          "animals",
+          "geometric-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 120
+    },
+    {
+      "id": "tatuvia-watercolor-poppy-cb9623",
+      "enabled": true,
+      "title": "水彩花朵与流彩",
+      "keywords": [
+        "水彩花朵与流彩",
+        "水彩",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花"
+      ],
+      "tags": {
+        "styles": [
+          "watercolor"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 127
+    },
+    {
+      "id": "tatuvia-sketch-moth-ffd520",
+      "enabled": true,
+      "title": "指尖飞蛾与枝叶",
+      "keywords": [
+        "指尖飞蛾与枝叶",
+        "素描",
+        "昆虫",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "飞蛾"
+      ],
+      "tags": {
+        "styles": [
+          "sketch"
+        ],
+        "subjects": [
+          "insects",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 134
+    },
+    {
+      "id": "tatuvia-japanese-crescent-moon-ad6573",
+      "enabled": true,
+      "title": "弯月云纹飞蛾",
+      "keywords": [
+        "弯月云纹飞蛾",
+        "日式",
+        "昆虫",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "飞蛾"
+      ],
+      "tags": {
+        "styles": [
+          "japanese"
+        ],
+        "subjects": [
+          "insects",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 141
+    },
+    {
+      "id": "tatuvia-blackwork-silhouette-1eb02b",
+      "enabled": true,
+      "title": "叶纹侧面狼首",
+      "keywords": [
+        "叶纹侧面狼首",
+        "黑工",
+        "动物",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "狼"
+      ],
+      "tags": {
+        "styles": [
+          "blackwork"
+        ],
+        "subjects": [
+          "animals",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 148
+    },
+    {
+      "id": "tatuvia-fine-line-design-010e16",
+      "enabled": true,
+      "title": "双燕星月枝叶",
+      "keywords": [
+        "双燕星月枝叶",
+        "细线极简",
+        "动物",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia"
+      ],
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "animals",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 155
+    },
+    {
+      "id": "tatuvia-traditional-panther-032944",
+      "enabled": true,
+      "title": "黑豹船锚与玫瑰",
+      "keywords": [
+        "黑豹船锚与玫瑰",
+        "美式传统",
+        "动物",
+        "花卉",
+        "航海",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "玫瑰",
+        "豹"
+      ],
+      "tags": {
+        "styles": [
+          "american-traditional"
+        ],
+        "subjects": [
+          "animals",
+          "flowers",
+          "nautical"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 162
+    },
+    {
+      "id": "tatuvia-geometric-wolf-head-4d452d",
+      "enabled": true,
+      "title": "侧向折面狼头",
+      "keywords": [
+        "侧向折面狼头",
+        "点刺几何",
+        "动物",
+        "几何纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "狼"
+      ],
+      "tags": {
+        "styles": [
+          "dotwork-geometric"
+        ],
+        "subjects": [
+          "animals",
+          "geometric-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 169
+    },
+    {
+      "id": "tatuvia-watercolor-hummingbird-87d226",
+      "enabled": true,
+      "title": "蜂鸟与彩色花叶",
+      "keywords": [
+        "蜂鸟与彩色花叶",
+        "水彩",
+        "动物",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花",
+        "蜂鸟"
+      ],
+      "tags": {
+        "styles": [
+          "watercolor"
+        ],
+        "subjects": [
+          "animals",
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 176
+    },
+    {
+      "id": "tatuvia-sketch-horse-80c0ed",
+      "enabled": true,
+      "title": "马头与花束素描",
+      "keywords": [
+        "马头与花束素描",
+        "素描",
+        "动物",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花",
+        "马"
+      ],
+      "tags": {
+        "styles": [
+          "sketch"
+        ],
+        "subjects": [
+          "animals",
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 183
+    },
+    {
+      "id": "tatuvia-japanese-phoenix-354e04",
+      "enabled": true,
+      "title": "花云长尾凤凰",
+      "keywords": [
+        "花云长尾凤凰",
+        "日式",
+        "龙凤",
+        "神话意象",
+        "花卉",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "凤凰",
+        "花"
+      ],
+      "tags": {
+        "styles": [
+          "japanese"
+        ],
+        "subjects": [
+          "dragons-phoenixes",
+          "mythic",
+          "flowers"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 190
+    },
+    {
+      "id": "tatuvia-blackwork-branch-5fd483",
+      "enabled": true,
+      "title": "乌鸦与枝叶黑工图案",
+      "keywords": [
+        "乌鸦与枝叶黑工图案",
+        "黑工",
+        "动物",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "乌鸦"
+      ],
+      "tags": {
+        "styles": [
+          "blackwork"
+        ],
+        "subjects": [
+          "animals",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 197
+    },
+    {
+      "id": "tatuvia-fine-line-design-700b32",
+      "enabled": true,
+      "title": "星点细线长花枝",
+      "keywords": [
+        "星点细线长花枝",
+        "细线极简",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花"
+      ],
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 204
+    },
+    {
+      "id": "tatuvia-geometric-mandala-2187fe",
+      "enabled": true,
+      "title": "斜向星环几何纹样",
+      "keywords": [
+        "斜向星环几何纹样",
+        "点刺几何",
+        "几何纹样",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "几何"
+      ],
+      "tags": {
+        "styles": [
+          "dotwork-geometric"
+        ],
+        "subjects": [
+          "geometric-motifs",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 211
+    },
+    {
+      "id": "tatuvia-watercolor-poppy-9debb2",
+      "enabled": true,
+      "title": "绽放花朵水彩图案",
+      "keywords": [
+        "绽放花朵水彩图案",
+        "水彩",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花"
+      ],
+      "tags": {
+        "styles": [
+          "watercolor"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 218
+    },
+    {
+      "id": "tatuvia-japanese-wave-61967e",
+      "enabled": true,
+      "title": "红鳍锦鲤浪花",
+      "keywords": [
+        "红鳍锦鲤浪花",
+        "日式",
+        "动物",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "锦鲤",
+        "花"
+      ],
+      "tags": {
+        "styles": [
+          "japanese"
+        ],
+        "subjects": [
+          "animals",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 225
+    },
+    {
+      "id": "tatuvia-blackwork-silhouette-473486",
+      "enabled": true,
+      "title": "狼与草叶剪影",
+      "keywords": [
+        "狼与草叶剪影",
+        "黑工",
+        "动物",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "狼"
+      ],
+      "tags": {
+        "styles": [
+          "blackwork"
+        ],
+        "subjects": [
+          "animals",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 232
+    },
+    {
+      "id": "tatuvia-fine-line-design-fce3c9",
+      "enabled": true,
+      "title": "单花留白线稿",
+      "keywords": [
+        "单花留白线稿",
+        "细线极简",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花"
+      ],
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 239
+    },
+    {
+      "id": "tatuvia-floral-peony-99e425",
+      "enabled": true,
+      "title": "牡丹与卷叶细线图案",
+      "keywords": [
+        "牡丹与卷叶细线图案",
+        "细线极简",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia"
+      ],
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 246
+    },
+    {
+      "id": "tatuvia-floral-lavender-c2d370",
+      "enabled": true,
+      "title": "穗状花枝与卷叶",
+      "keywords": [
+        "穗状花枝与卷叶",
+        "细线极简",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花"
+      ],
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 253
+    },
+    {
+      "id": "tatuvia-floral-peony-37b69c",
+      "enabled": true,
+      "title": "牡丹花叶纵向图案",
+      "keywords": [
+        "牡丹花叶纵向图案",
+        "细线极简",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花"
+      ],
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 260
+    },
+    {
+      "id": "tatuvia-floral-design-61c5d1",
+      "enabled": true,
+      "title": "单朵花与流动叶线",
+      "keywords": [
+        "单朵花与流动叶线",
+        "细线极简",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "花"
+      ],
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 267
     }
   ],
   "withdrawnIds": [

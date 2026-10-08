@@ -155,3 +155,114 @@
 
 - **photo-ref-asia-hunter-12 · 精灵球与水彩色块** — Hunter Dark
   [作者原页](https://www.windfalltattoostudio.com/hunter)；版权状态：未确认再分发授权。
+
+- **tatuvia-japanese-tiger-d96ca3 · 竹林云雾下山虎** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/japanese-tiger-d96ca3)；版权状态：未确认再分发授权。
+
+- **tatuvia-realism-tiger-1740e2 · 黑灰咆哮虎头** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/realism-tiger-1740e2)；版权状态：未确认再分发授权。
+
+- **tatuvia-japanese-design-019235 · 圆月暗影武士** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/japanese-design-019235)；版权状态：未确认再分发授权。
+
+- **tatuvia-japanese-guitar-77e6ba · 和服吉他黑猫** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/japanese-guitar-77e6ba)；版权状态：未确认再分发授权。
+
+- **tatuvia-fine-line-flower-0538b1 · 细线牡丹藤蔓** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/fine-line-flower-0538b1)；版权状态：未确认再分发授权。
+
+- **tatuvia-blackwork-sun-bcacf7 · 部落太阳徽纹** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/blackwork-sun-bcacf7)；版权状态：未确认再分发授权。
+
+- **tatuvia-traditional-rose-ecf896 · 燕子与红玫瑰** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/traditional-rose-ecf896)；版权状态：未确认再分发授权。
+
+- **tatuvia-geometric-mandala-ce598b · 叠层星形曼陀罗** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/geometric-mandala-ce598b)；版权状态：未确认再分发授权。
+
+- **tatuvia-floral-lavender-52c15d · 花束与细叶纹样** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/floral-lavender-52c15d)；版权状态：未确认再分发授权。
+
+- **tatuvia-watercolor-hummingbird-75bc60 · 展翅蜂鸟与水彩花枝** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/watercolor-hummingbird-75bc60)；版权状态：未确认再分发授权。
+
+- **tatuvia-sketch-horse-3933b7 · 马头与卷叶素描** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/sketch-horse-3933b7)；版权状态：未确认再分发授权。
+
+- **tatuvia-japanese-tiger-ff9ef6 · 竹影迎面猛虎** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/japanese-tiger-ff9ef6)；版权状态：未确认再分发授权。
+
+- **tatuvia-blackwork-wolf-head-ad8561 · 黑工狼首藤纹** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/blackwork-wolf-head-ad8561)；版权状态：未确认再分发授权。
+
+- **tatuvia-fine-line-crescent-moon-f941dc · 星月细线花纹** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/fine-line-crescent-moon-f941dc)；版权状态：未确认再分发授权。
+
+- **tatuvia-traditional-panther-2a764f · 豹头与玫瑰** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/traditional-panther-2a764f)；版权状态：未确认再分发授权。
+
+- **tatuvia-geometric-wolf-head-43096f · 正面几何狼头** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/geometric-wolf-head-43096f)；版权状态：未确认再分发授权。
+
+- **tatuvia-watercolor-poppy-cb9623 · 水彩花朵与流彩** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/watercolor-poppy-cb9623)；版权状态：未确认再分发授权。
+
+- **tatuvia-sketch-moth-ffd520 · 指尖飞蛾与枝叶** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/sketch-moth-ffd520)；版权状态：未确认再分发授权。
+
+- **tatuvia-japanese-crescent-moon-ad6573 · 弯月云纹飞蛾** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/japanese-crescent-moon-ad6573)；版权状态：未确认再分发授权。
+
+- **tatuvia-blackwork-silhouette-1eb02b · 叶纹侧面狼首** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/blackwork-silhouette-1eb02b)；版权状态：未确认再分发授权。
+
+- **tatuvia-fine-line-design-010e16 · 双燕星月枝叶** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/fine-line-design-010e16)；版权状态：未确认再分发授权。
+
+- **tatuvia-traditional-panther-032944 · 黑豹船锚与玫瑰** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/traditional-panther-032944)；版权状态：未确认再分发授权。
+
+- **tatuvia-geometric-wolf-head-4d452d · 侧向折面狼头** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/geometric-wolf-head-4d452d)；版权状态：未确认再分发授权。
+
+- **tatuvia-watercolor-hummingbird-87d226 · 蜂鸟与彩色花叶** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/watercolor-hummingbird-87d226)；版权状态：未确认再分发授权。
+
+- **tatuvia-sketch-horse-80c0ed · 马头与花束素描** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/sketch-horse-80c0ed)；版权状态：未确认再分发授权。
+
+- **tatuvia-japanese-phoenix-354e04 · 花云长尾凤凰** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/japanese-phoenix-354e04)；版权状态：未确认再分发授权。
+
+- **tatuvia-blackwork-branch-5fd483 · 乌鸦与枝叶黑工图案** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/blackwork-branch-5fd483)；版权状态：未确认再分发授权。
+
+- **tatuvia-fine-line-design-700b32 · 星点细线长花枝** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/fine-line-design-700b32)；版权状态：未确认再分发授权。
+
+- **tatuvia-geometric-mandala-2187fe · 斜向星环几何纹样** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/geometric-mandala-2187fe)；版权状态：未确认再分发授权。
+
+- **tatuvia-watercolor-poppy-9debb2 · 绽放花朵水彩图案** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/watercolor-poppy-9debb2)；版权状态：未确认再分发授权。
+
+- **tatuvia-japanese-wave-61967e · 红鳍锦鲤浪花** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/japanese-wave-61967e)；版权状态：未确认再分发授权。
+
+- **tatuvia-blackwork-silhouette-473486 · 狼与草叶剪影** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/blackwork-silhouette-473486)；版权状态：未确认再分发授权。
+
+- **tatuvia-fine-line-design-fce3c9 · 单花留白线稿** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/fine-line-design-fce3c9)；版权状态：未确认再分发授权。
+
+- **tatuvia-floral-peony-99e425 · 牡丹与卷叶细线图案** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/floral-peony-99e425)；版权状态：未确认再分发授权。
+
+- **tatuvia-floral-lavender-c2d370 · 穗状花枝与卷叶** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/floral-lavender-c2d370)；版权状态：未确认再分发授权。
+
+- **tatuvia-floral-peony-37b69c · 牡丹花叶纵向图案** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/floral-peony-37b69c)；版权状态：未确认再分发授权。
+
+- **tatuvia-floral-design-61c5d1 · 单朵花与流动叶线** — Tatuvia 用户
+  [作者原页](https://tatuvia.com/design/floral-design-61c5d1)；版权状态：未确认再分发授权。
