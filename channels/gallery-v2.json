@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "catalogRevision": "gh-e2cbb365bb424e4a594fd8ab",
-  "publishedAt": "2026-10-07T08:36:03.786Z",
-  "catalogPath": "catalog/gh-e2cbb365bb424e4a594fd8ab.json",
+  "catalogRevision": "gh-a4babb19623866fb1bf58391",
+  "publishedAt": "2026-10-08T14:39:32.950Z",
+  "catalogPath": "catalog/gh-a4babb19623866fb1bf58391.json",
   "removedIds": [
     "design-butterfly-line-art-11",
     "design-cat-sketch-line-art",
@@ -37,5 +37,5 @@
     "photo-020"
   ],
   "minClientCatalogSchema": 1,
-  "sequence": 4
+  "sequence": 5
 }
