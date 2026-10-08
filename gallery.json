@@ -144,6 +144,10 @@
         {
           "value": "gothic-architecture",
           "label": "哥特建筑"
+        },
+        {
+          "value": "celestial",
+          "label": "星月天体"
         }
       ],
       "bodyParts": [
@@ -201,6 +205,7 @@
       "design": [
         "animals",
         "flowers",
+        "celestial",
         "dragons-phoenixes",
         "geometric-motifs",
         "plants",
@@ -221,14 +226,14 @@
         "黑灰写实"
       ],
       "design": [
-        "老虎",
+        "莲花",
         "凤凰",
         "锦鲤",
-        "细线",
-        "美式传统",
-        "黑工",
-        "花卉",
-        "几何"
+        "龙",
+        "蝴蝶",
+        "月亮",
+        "罗盘",
+        "细线"
       ]
     }
   },
@@ -2693,6 +2698,674 @@
         "bodyParts": []
       },
       "sortOrder": 267
+    },
+    {
+      "id": "tatuvia-dotwork-lotus-6719dc",
+      "enabled": true,
+      "title": "点刺莲花与放射花纹",
+      "keywords": [
+        "点刺莲花与放射花纹",
+        "点刺几何",
+        "花卉",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "莲花",
+        "荷花"
+      ],
+      "tags": {
+        "styles": [
+          "dotwork-geometric"
+        ],
+        "subjects": [
+          "flowers",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 18
+    },
+    {
+      "id": "tatuvia-fine-line-lotus-49fae0",
+      "enabled": true,
+      "title": "一枝细线莲花",
+      "keywords": [
+        "一枝细线莲花",
+        "细线极简",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "莲花",
+        "荷花"
+      ],
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 29
+    },
+    {
+      "id": "tatuvia-blackwork-silhouette-5d0c11",
+      "enabled": true,
+      "title": "烈焰黑翼龙",
+      "keywords": [
+        "烈焰黑翼龙",
+        "黑工",
+        "龙凤",
+        "神话意象",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "龙",
+        "翼龙"
+      ],
+      "tags": {
+        "styles": [
+          "blackwork"
+        ],
+        "subjects": [
+          "dragons-phoenixes",
+          "mythic"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 40
+    },
+    {
+      "id": "tatuvia-blackwork-silhouette-5baa94",
+      "enabled": true,
+      "title": "部落纹翼龙徽章",
+      "keywords": [
+        "部落纹翼龙徽章",
+        "部落图案",
+        "龙凤",
+        "神话意象",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "龙",
+        "翼龙"
+      ],
+      "tags": {
+        "styles": [
+          "tribal"
+        ],
+        "subjects": [
+          "dragons-phoenixes",
+          "mythic",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 51
+    },
+    {
+      "id": "tatuvia-japanese-wave-748cbe",
+      "enabled": true,
+      "title": "锦鲤与花叶浪纹",
+      "keywords": [
+        "锦鲤与花叶浪纹",
+        "日式",
+        "动物",
+        "花卉",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "锦鲤",
+        "鱼"
+      ],
+      "tags": {
+        "styles": [
+          "japanese"
+        ],
+        "subjects": [
+          "animals",
+          "flowers",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 62
+    },
+    {
+      "id": "tatuvia-fine-line-phoenix-4d9ba4",
+      "enabled": true,
+      "title": "花藤展翅凤凰",
+      "keywords": [
+        "花藤展翅凤凰",
+        "装饰图案",
+        "龙凤",
+        "神话意象",
+        "花卉",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "凤凰"
+      ],
+      "tags": {
+        "styles": [
+          "ornamental"
+        ],
+        "subjects": [
+          "dragons-phoenixes",
+          "mythic",
+          "flowers",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 73
+    },
+    {
+      "id": "tatuvia-geometric-lotus-80c913",
+      "enabled": true,
+      "title": "折面莲花几何徽纹",
+      "keywords": [
+        "折面莲花几何徽纹",
+        "点刺几何",
+        "花卉",
+        "几何纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "莲花",
+        "荷花"
+      ],
+      "tags": {
+        "styles": [
+          "dotwork-geometric"
+        ],
+        "subjects": [
+          "flowers",
+          "geometric-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 84
+    },
+    {
+      "id": "tatuvia-fine-line-lotus-5033bb",
+      "enabled": true,
+      "title": "双花轻盈莲枝",
+      "keywords": [
+        "双花轻盈莲枝",
+        "细线极简",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "莲花",
+        "荷花"
+      ],
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 95
+    },
+    {
+      "id": "tatuvia-blackwork-dagger-d488d0",
+      "enabled": true,
+      "title": "黑工蛇绕长剑",
+      "keywords": [
+        "黑工蛇绕长剑",
+        "黑工",
+        "动物",
+        "器物",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "蛇"
+      ],
+      "tags": {
+        "styles": [
+          "blackwork"
+        ],
+        "subjects": [
+          "animals",
+          "objects",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 106
+    },
+    {
+      "id": "tatuvia-japanese-phoenix-c11401",
+      "enabled": true,
+      "title": "云浪中的展翅凤凰",
+      "keywords": [
+        "云浪中的展翅凤凰",
+        "日式",
+        "龙凤",
+        "神话意象",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "凤凰"
+      ],
+      "tags": {
+        "styles": [
+          "japanese"
+        ],
+        "subjects": [
+          "dragons-phoenixes",
+          "mythic",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 117
+    },
+    {
+      "id": "tatuvia-dotwork-moon-df4dd0",
+      "enabled": true,
+      "title": "月球叶纹几何图案",
+      "keywords": [
+        "月球叶纹几何图案",
+        "点刺几何",
+        "星月天体",
+        "植物",
+        "几何纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "月亮",
+        "月牙",
+        "星月"
+      ],
+      "tags": {
+        "styles": [
+          "dotwork-geometric"
+        ],
+        "subjects": [
+          "celestial",
+          "plants",
+          "geometric-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 128
+    },
+    {
+      "id": "tatuvia-floral-lotus-6ac209",
+      "enabled": true,
+      "title": "莲花与翻卷花叶",
+      "keywords": [
+        "莲花与翻卷花叶",
+        "细线极简",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "莲花",
+        "荷花"
+      ],
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 139
+    },
+    {
+      "id": "tatuvia-dotwork-moon-ef26fd",
+      "enabled": true,
+      "title": "星环月球点刺图案",
+      "keywords": [
+        "星环月球点刺图案",
+        "点刺几何",
+        "星月天体",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "月亮",
+        "月牙",
+        "星月"
+      ],
+      "tags": {
+        "styles": [
+          "dotwork-geometric"
+        ],
+        "subjects": [
+          "celestial",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 150
+    },
+    {
+      "id": "tatuvia-fine-line-lotus-d974c3",
+      "enabled": true,
+      "title": "莲花下的细线锦鲤",
+      "keywords": [
+        "莲花下的细线锦鲤",
+        "细线极简",
+        "动物",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "莲花",
+        "荷花",
+        "锦鲤",
+        "鱼"
+      ],
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "animals",
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 161
+    },
+    {
+      "id": "tatuvia-geometric-compass-e84144",
+      "enabled": true,
+      "title": "八角星芒罗盘纹样",
+      "keywords": [
+        "八角星芒罗盘纹样",
+        "点刺几何",
+        "器物",
+        "航海",
+        "几何纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "罗盘",
+        "指南针"
+      ],
+      "tags": {
+        "styles": [
+          "dotwork-geometric"
+        ],
+        "subjects": [
+          "objects",
+          "nautical",
+          "geometric-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 172
+    },
+    {
+      "id": "tatuvia-fine-line-phoenix-f9b772",
+      "enabled": true,
+      "title": "轻羽长尾凤凰线稿",
+      "keywords": [
+        "轻羽长尾凤凰线稿",
+        "细线极简",
+        "龙凤",
+        "神话意象",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "凤凰"
+      ],
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "dragons-phoenixes",
+          "mythic",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 183
+    },
+    {
+      "id": "tatuvia-dotwork-compass-4de112",
+      "enabled": true,
+      "title": "涡纹点刺罗盘",
+      "keywords": [
+        "涡纹点刺罗盘",
+        "点刺几何",
+        "器物",
+        "航海",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "罗盘",
+        "指南针"
+      ],
+      "tags": {
+        "styles": [
+          "dotwork-geometric"
+        ],
+        "subjects": [
+          "objects",
+          "nautical",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 194
+    },
+    {
+      "id": "tatuvia-fine-line-design-58b11a",
+      "enabled": true,
+      "title": "细线双花长枝",
+      "keywords": [
+        "细线双花长枝",
+        "细线极简",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia"
+      ],
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 205
+    },
+    {
+      "id": "tatuvia-dotwork-compass-a25a91",
+      "enabled": true,
+      "title": "花瓣环绕点刺罗盘",
+      "keywords": [
+        "花瓣环绕点刺罗盘",
+        "点刺几何",
+        "器物",
+        "航海",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "罗盘",
+        "指南针"
+      ],
+      "tags": {
+        "styles": [
+          "dotwork-geometric"
+        ],
+        "subjects": [
+          "objects",
+          "nautical",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 216
+    },
+    {
+      "id": "tatuvia-fine-line-snake-41e325",
+      "enabled": true,
+      "title": "细线花枝游蛇",
+      "keywords": [
+        "细线花枝游蛇",
+        "细线极简",
+        "动物",
+        "花卉",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "蛇"
+      ],
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "animals",
+          "flowers",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 227
+    },
+    {
+      "id": "tatuvia-dotwork-butterfly-1e824b",
+      "enabled": true,
+      "title": "枝头蝴蝶点刺图案",
+      "keywords": [
+        "枝头蝴蝶点刺图案",
+        "点刺几何",
+        "昆虫",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "蝴蝶"
+      ],
+      "tags": {
+        "styles": [
+          "dotwork-geometric"
+        ],
+        "subjects": [
+          "insects",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 238
+    },
+    {
+      "id": "tatuvia-fine-line-crescent-moon-f9f50d",
+      "enabled": true,
+      "title": "枝叶环绕星月",
+      "keywords": [
+        "枝叶环绕星月",
+        "细线极简",
+        "星月天体",
+        "植物",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "月亮",
+        "月牙",
+        "星月"
+      ],
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "celestial",
+          "plants"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 249
+    },
+    {
+      "id": "tatuvia-fine-line-crescent-moon-9001f6",
+      "enabled": true,
+      "title": "留白弯月与星芒",
+      "keywords": [
+        "留白弯月与星芒",
+        "细线极简",
+        "星月天体",
+        "装饰纹样",
+        "纹身图案",
+        "纹身灵感",
+        "AI 灵感",
+        "Tatuvia",
+        "月亮",
+        "月牙",
+        "星月"
+      ],
+      "tags": {
+        "styles": [
+          "fine-line-minimal"
+        ],
+        "subjects": [
+          "celestial",
+          "decorative-motifs"
+        ],
+        "bodyParts": []
+      },
+      "sortOrder": 260
     }
   ],
   "withdrawnIds": [
